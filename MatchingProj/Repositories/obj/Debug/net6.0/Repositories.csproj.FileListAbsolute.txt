@@ -1,0 +1,210 @@
+C:\Users\user\Documents\MatchingProj\Repositories\bin\Debug\net6.0\Repositories.deps.json
+C:\Users\user\Documents\MatchingProj\Repositories\bin\Debug\net6.0\Repositories.dll
+C:\Users\user\Documents\MatchingProj\Repositories\bin\Debug\net6.0\Repositories.pdb
+C:\Users\user\Documents\MatchingProj\Repositories\obj\Debug\net6.0\Repositories.csproj.AssemblyReference.cache
+C:\Users\user\Documents\MatchingProj\Repositories\obj\Debug\net6.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\MatchingProj\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfoInputs.cache
+C:\Users\user\Documents\MatchingProj\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfo.cs
+C:\Users\user\Documents\MatchingProj\Repositories\obj\Debug\net6.0\Repositories.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\MatchingProj\Repositories\obj\Debug\net6.0\Repositories.dll
+C:\Users\user\Documents\MatchingProj\Repositories\obj\Debug\net6.0\refint\Repositories.dll
+C:\Users\user\Documents\MatchingProj\Repositories\obj\Debug\net6.0\Repositories.pdb
+C:\Users\user\Documents\MatchingProj\Repositories\obj\Debug\net6.0\ref\Repositories.dll
+C:\Users\user\Documents\MatchingProj\Repositories\bin\Debug\net6.0\Repositories.runtimeconfig.json
+C:\Users\user\Documents\MatchingProj\Repositories\obj\Debug\net6.0\Repositories.genruntimeconfig.cache
+C:\Users\USER\Downloads\MatchingProj\Repositories\bin\Debug\net6.0\Repositories.deps.json
+C:\Users\USER\Downloads\MatchingProj\Repositories\bin\Debug\net6.0\Repositories.runtimeconfig.json
+C:\Users\USER\Downloads\MatchingProj\Repositories\bin\Debug\net6.0\Repositories.dll
+C:\Users\USER\Downloads\MatchingProj\Repositories\bin\Debug\net6.0\Repositories.pdb
+C:\Users\USER\Downloads\MatchingProj\Repositories\obj\Debug\net6.0\Repositories.csproj.AssemblyReference.cache
+C:\Users\USER\Downloads\MatchingProj\Repositories\obj\Debug\net6.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Downloads\MatchingProj\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfoInputs.cache
+C:\Users\USER\Downloads\MatchingProj\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfo.cs
+C:\Users\USER\Downloads\MatchingProj\Repositories\obj\Debug\net6.0\Repositories.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\MatchingProj\Repositories\obj\Debug\net6.0\Repositories.dll
+C:\Users\USER\Downloads\MatchingProj\Repositories\obj\Debug\net6.0\refint\Repositories.dll
+C:\Users\USER\Downloads\MatchingProj\Repositories\obj\Debug\net6.0\Repositories.pdb
+C:\Users\USER\Downloads\MatchingProj\Repositories\obj\Debug\net6.0\Repositories.genruntimeconfig.cache
+C:\Users\USER\Downloads\MatchingProj\Repositories\obj\Debug\net6.0\ref\Repositories.dll
+C:\Users\user\Desktop\פרוייקט\MatchingProj\Repositories\bin\Debug\net6.0\Repositories.deps.json
+C:\Users\user\Desktop\פרוייקט\MatchingProj\Repositories\bin\Debug\net6.0\Repositories.runtimeconfig.json
+C:\Users\user\Desktop\פרוייקט\MatchingProj\Repositories\bin\Debug\net6.0\Repositories.dll
+C:\Users\user\Desktop\פרוייקט\MatchingProj\Repositories\bin\Debug\net6.0\Repositories.pdb
+C:\Users\user\Desktop\פרוייקט\MatchingProj\Repositories\obj\Debug\net6.0\Repositories.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\פרוייקט\MatchingProj\Repositories\obj\Debug\net6.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\פרוייקט\MatchingProj\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\פרוייקט\MatchingProj\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfo.cs
+C:\Users\user\Desktop\פרוייקט\MatchingProj\Repositories\obj\Debug\net6.0\Repositories.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\פרוייקט\MatchingProj\Repositories\obj\Debug\net6.0\Repositories.dll
+C:\Users\user\Desktop\פרוייקט\MatchingProj\Repositories\obj\Debug\net6.0\refint\Repositories.dll
+C:\Users\user\Desktop\פרוייקט\MatchingProj\Repositories\obj\Debug\net6.0\Repositories.pdb
+C:\Users\user\Desktop\פרוייקט\MatchingProj\Repositories\obj\Debug\net6.0\Repositories.genruntimeconfig.cache
+C:\Users\user\Desktop\פרוייקט\MatchingProj\Repositories\obj\Debug\net6.0\ref\Repositories.dll
+C:\Users\משתמש זה\Desktop\פרוייקט API\MatchingProj\Repositories\obj\Debug\net6.0\Repositories.dll
+C:\Users\משתמש זה\Desktop\פרוייקט API\MatchingProj\Repositories\obj\Debug\net6.0\ref\Repositories.dll
+C:\Users\משתמש זה\Desktop\פרוייקט API\MatchingProj\Repositories\obj\Debug\net6.0\Repositories.pdb
+C:\Users\user\Desktop\פרוייקט API\MatchingProj\Repositories\bin\Debug\net6.0\Repositories.deps.json
+C:\Users\user\Desktop\פרוייקט API\MatchingProj\Repositories\bin\Debug\net6.0\Repositories.runtimeconfig.json
+C:\Users\user\Desktop\פרוייקט API\MatchingProj\Repositories\bin\Debug\net6.0\Repositories.dll
+C:\Users\user\Desktop\פרוייקט API\MatchingProj\Repositories\bin\Debug\net6.0\Repositories.pdb
+C:\Users\user\Desktop\פרוייקט API\MatchingProj\Repositories\obj\Debug\net6.0\Repositories.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\פרוייקט API\MatchingProj\Repositories\obj\Debug\net6.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\פרוייקט API\MatchingProj\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\פרוייקט API\MatchingProj\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfo.cs
+C:\Users\user\Desktop\פרוייקט API\MatchingProj\Repositories\obj\Debug\net6.0\Repositories.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\פרוייקט API\MatchingProj\Repositories\obj\Debug\net6.0\Repositories.dll
+C:\Users\user\Desktop\פרוייקט API\MatchingProj\Repositories\obj\Debug\net6.0\refint\Repositories.dll
+C:\Users\user\Desktop\פרוייקט API\MatchingProj\Repositories\obj\Debug\net6.0\Repositories.pdb
+C:\Users\user\Desktop\פרוייקט API\MatchingProj\Repositories\obj\Debug\net6.0\Repositories.genruntimeconfig.cache
+C:\Users\user\Desktop\פרוייקט API\MatchingProj\Repositories\obj\Debug\net6.0\ref\Repositories.dll
+C:\Users\user\3D Objects\פרוייקט API\MatchingProj\Repositories\bin\Debug\net6.0\Repositories.deps.json
+C:\Users\user\3D Objects\פרוייקט API\MatchingProj\Repositories\bin\Debug\net6.0\Repositories.runtimeconfig.json
+C:\Users\user\3D Objects\פרוייקט API\MatchingProj\Repositories\bin\Debug\net6.0\Repositories.dll
+C:\Users\user\3D Objects\פרוייקט API\MatchingProj\Repositories\bin\Debug\net6.0\Repositories.pdb
+C:\Users\user\3D Objects\פרוייקט API\MatchingProj\Repositories\obj\Debug\net6.0\Repositories.csproj.AssemblyReference.cache
+C:\Users\user\3D Objects\פרוייקט API\MatchingProj\Repositories\obj\Debug\net6.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\3D Objects\פרוייקט API\MatchingProj\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfoInputs.cache
+C:\Users\user\3D Objects\פרוייקט API\MatchingProj\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfo.cs
+C:\Users\user\3D Objects\פרוייקט API\MatchingProj\Repositories\obj\Debug\net6.0\Repositories.csproj.CoreCompileInputs.cache
+C:\Users\user\3D Objects\פרוייקט API\MatchingProj\Repositories\obj\Debug\net6.0\Repositories.dll
+C:\Users\user\3D Objects\פרוייקט API\MatchingProj\Repositories\obj\Debug\net6.0\refint\Repositories.dll
+C:\Users\user\3D Objects\פרוייקט API\MatchingProj\Repositories\obj\Debug\net6.0\Repositories.pdb
+C:\Users\user\3D Objects\פרוייקט API\MatchingProj\Repositories\obj\Debug\net6.0\Repositories.genruntimeconfig.cache
+C:\Users\user\3D Objects\פרוייקט API\MatchingProj\Repositories\obj\Debug\net6.0\ref\Repositories.dll
+C:\Users\user\3D Objects\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Repositories\bin\Debug\net6.0\Repositories.deps.json
+C:\Users\user\3D Objects\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Repositories\bin\Debug\net6.0\Repositories.runtimeconfig.json
+C:\Users\user\3D Objects\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Repositories\bin\Debug\net6.0\Repositories.dll
+C:\Users\user\3D Objects\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Repositories\bin\Debug\net6.0\Repositories.pdb
+C:\Users\user\3D Objects\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Repositories\obj\Debug\net6.0\Repositories.csproj.AssemblyReference.cache
+C:\Users\user\3D Objects\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Repositories\obj\Debug\net6.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\3D Objects\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfoInputs.cache
+C:\Users\user\3D Objects\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfo.cs
+C:\Users\user\3D Objects\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Repositories\obj\Debug\net6.0\Repositories.csproj.CoreCompileInputs.cache
+C:\Users\user\3D Objects\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Repositories\obj\Debug\net6.0\Repositories.dll
+C:\Users\user\3D Objects\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Repositories\obj\Debug\net6.0\refint\Repositories.dll
+C:\Users\user\3D Objects\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Repositories\obj\Debug\net6.0\Repositories.pdb
+C:\Users\user\3D Objects\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Repositories\obj\Debug\net6.0\Repositories.genruntimeconfig.cache
+C:\Users\user\3D Objects\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Repositories\obj\Debug\net6.0\ref\Repositories.dll
+C:\Users\HP\Downloads\גיבוי_2_לפני_הוספת_טבלה (1)\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Repositories\bin\Debug\net6.0\Repositories.deps.json
+C:\Users\HP\Downloads\גיבוי_2_לפני_הוספת_טבלה (1)\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Repositories\bin\Debug\net6.0\Repositories.runtimeconfig.json
+C:\Users\HP\Downloads\גיבוי_2_לפני_הוספת_טבלה (1)\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Repositories\bin\Debug\net6.0\Repositories.dll
+C:\Users\HP\Downloads\גיבוי_2_לפני_הוספת_טבלה (1)\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Repositories\bin\Debug\net6.0\Repositories.pdb
+C:\Users\HP\Downloads\גיבוי_2_לפני_הוספת_טבלה (1)\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Repositories\obj\Debug\net6.0\Repositories.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\גיבוי_2_לפני_הוספת_טבלה (1)\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Repositories\obj\Debug\net6.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\גיבוי_2_לפני_הוספת_טבלה (1)\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\גיבוי_2_לפני_הוספת_טבלה (1)\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfo.cs
+C:\Users\HP\Downloads\גיבוי_2_לפני_הוספת_טבלה (1)\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Repositories\obj\Debug\net6.0\Repositories.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\גיבוי_2_לפני_הוספת_טבלה (1)\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Repositories\obj\Debug\net6.0\Repositories.dll
+C:\Users\HP\Downloads\גיבוי_2_לפני_הוספת_טבלה (1)\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Repositories\obj\Debug\net6.0\refint\Repositories.dll
+C:\Users\HP\Downloads\גיבוי_2_לפני_הוספת_טבלה (1)\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Repositories\obj\Debug\net6.0\Repositories.pdb
+C:\Users\HP\Downloads\גיבוי_2_לפני_הוספת_טבלה (1)\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Repositories\obj\Debug\net6.0\Repositories.genruntimeconfig.cache
+C:\Users\HP\Downloads\גיבוי_2_לפני_הוספת_טבלה (1)\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Repositories\obj\Debug\net6.0\ref\Repositories.dll
+C:\Users\user\Downloads\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Repositories\bin\Debug\net6.0\Repositories.deps.json
+C:\Users\user\Downloads\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Repositories\bin\Debug\net6.0\Repositories.runtimeconfig.json
+C:\Users\user\Downloads\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Repositories\bin\Debug\net6.0\Repositories.dll
+C:\Users\user\Downloads\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Repositories\bin\Debug\net6.0\Repositories.pdb
+C:\Users\user\Downloads\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Repositories\obj\Debug\net6.0\Repositories.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Repositories\obj\Debug\net6.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Downloads\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfo.cs
+C:\Users\user\Downloads\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Repositories\obj\Debug\net6.0\Repositories.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Repositories\obj\Debug\net6.0\Repositories.dll
+C:\Users\user\Downloads\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Repositories\obj\Debug\net6.0\refint\Repositories.dll
+C:\Users\user\Downloads\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Repositories\obj\Debug\net6.0\Repositories.pdb
+C:\Users\user\Downloads\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Repositories\obj\Debug\net6.0\Repositories.genruntimeconfig.cache
+C:\Users\user\Downloads\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Repositories\obj\Debug\net6.0\ref\Repositories.dll
+C:\Users\user\Documents\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Repositories\bin\Debug\net6.0\Repositories.deps.json
+C:\Users\user\Documents\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Repositories\bin\Debug\net6.0\Repositories.runtimeconfig.json
+C:\Users\user\Documents\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Repositories\bin\Debug\net6.0\Repositories.dll
+C:\Users\user\Documents\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Repositories\bin\Debug\net6.0\Repositories.pdb
+C:\Users\user\Documents\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Repositories\obj\Debug\net6.0\Repositories.csproj.AssemblyReference.cache
+C:\Users\user\Documents\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Repositories\obj\Debug\net6.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfoInputs.cache
+C:\Users\user\Documents\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfo.cs
+C:\Users\user\Documents\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Repositories\obj\Debug\net6.0\Repositories.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Repositories\obj\Debug\net6.0\Repositories.dll
+C:\Users\user\Documents\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Repositories\obj\Debug\net6.0\refint\Repositories.dll
+C:\Users\user\Documents\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Repositories\obj\Debug\net6.0\Repositories.pdb
+C:\Users\user\Documents\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Repositories\obj\Debug\net6.0\Repositories.genruntimeconfig.cache
+C:\Users\user\Documents\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Repositories\obj\Debug\net6.0\ref\Repositories.dll
+C:\Users\משתמש זה\Desktop\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Repositories\bin\Debug\net6.0\Repositories.deps.json
+C:\Users\משתמש זה\Desktop\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Repositories\bin\Debug\net6.0\Repositories.runtimeconfig.json
+C:\Users\משתמש זה\Desktop\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Repositories\bin\Debug\net6.0\Repositories.dll
+C:\Users\משתמש זה\Desktop\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Repositories\bin\Debug\net6.0\ref\Repositories.dll
+C:\Users\משתמש זה\Desktop\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Repositories\bin\Debug\net6.0\Repositories.pdb
+C:\Users\משתמש זה\Desktop\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Repositories\obj\Debug\net6.0\Repositories.csproj.AssemblyReference.cache
+C:\Users\משתמש זה\Desktop\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Repositories\obj\Debug\net6.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\משתמש זה\Desktop\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfoInputs.cache
+C:\Users\משתמש זה\Desktop\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfo.cs
+C:\Users\משתמש זה\Desktop\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Repositories\obj\Debug\net6.0\Repositories.csproj.CoreCompileInputs.cache
+C:\Users\משתמש זה\Desktop\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Repositories\obj\Debug\net6.0\Repositories.dll
+C:\Users\משתמש זה\Desktop\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Repositories\obj\Debug\net6.0\ref\Repositories.dll
+C:\Users\משתמש זה\Desktop\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Repositories\obj\Debug\net6.0\Repositories.pdb
+C:\Users\משתמש זה\Desktop\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Repositories\obj\Debug\net6.0\Repositories.genruntimeconfig.cache
+C:\Users\משתמש זה\Desktop\פרוייקט API\MatchingProj\Repositories\bin\Debug\net6.0\Repositories.deps.json
+C:\Users\משתמש זה\Desktop\פרוייקט API\MatchingProj\Repositories\bin\Debug\net6.0\Repositories.runtimeconfig.json
+C:\Users\משתמש זה\Desktop\פרוייקט API\MatchingProj\Repositories\bin\Debug\net6.0\Repositories.dll
+C:\Users\משתמש זה\Desktop\פרוייקט API\MatchingProj\Repositories\bin\Debug\net6.0\ref\Repositories.dll
+C:\Users\משתמש זה\Desktop\פרוייקט API\MatchingProj\Repositories\bin\Debug\net6.0\Repositories.pdb
+C:\Users\משתמש זה\Desktop\פרוייקט API\MatchingProj\Repositories\obj\Debug\net6.0\Repositories.csproj.AssemblyReference.cache
+C:\Users\משתמש זה\Desktop\פרוייקט API\MatchingProj\Repositories\obj\Debug\net6.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\משתמש זה\Desktop\פרוייקט API\MatchingProj\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfoInputs.cache
+C:\Users\משתמש זה\Desktop\פרוייקט API\MatchingProj\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfo.cs
+C:\Users\משתמש זה\Desktop\פרוייקט API\MatchingProj\Repositories\obj\Debug\net6.0\Repositories.csproj.CoreCompileInputs.cache
+C:\Users\משתמש זה\Desktop\פרוייקט API\MatchingProj\Repositories\obj\Debug\net6.0\Repositories.genruntimeconfig.cache
+C:\Users\user\Desktop\פרוייקט\פרוייקט API\MatchingProj\Repositories\bin\Debug\net6.0\Repositories.deps.json
+C:\Users\user\Desktop\פרוייקט\פרוייקט API\MatchingProj\Repositories\bin\Debug\net6.0\Repositories.runtimeconfig.json
+C:\Users\user\Desktop\פרוייקט\פרוייקט API\MatchingProj\Repositories\bin\Debug\net6.0\Repositories.dll
+C:\Users\user\Desktop\פרוייקט\פרוייקט API\MatchingProj\Repositories\bin\Debug\net6.0\Repositories.pdb
+C:\Users\user\Desktop\פרוייקט\פרוייקט API\MatchingProj\Repositories\obj\Debug\net6.0\Repositories.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\פרוייקט\פרוייקט API\MatchingProj\Repositories\obj\Debug\net6.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\פרוייקט\פרוייקט API\MatchingProj\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\פרוייקט\פרוייקט API\MatchingProj\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfo.cs
+C:\Users\user\Desktop\פרוייקט\פרוייקט API\MatchingProj\Repositories\obj\Debug\net6.0\Repositories.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\פרוייקט\פרוייקט API\MatchingProj\Repositories\obj\Debug\net6.0\Repositories.dll
+C:\Users\user\Desktop\פרוייקט\פרוייקט API\MatchingProj\Repositories\obj\Debug\net6.0\refint\Repositories.dll
+C:\Users\user\Desktop\פרוייקט\פרוייקט API\MatchingProj\Repositories\obj\Debug\net6.0\Repositories.pdb
+C:\Users\user\Desktop\פרוייקט\פרוייקט API\MatchingProj\Repositories\obj\Debug\net6.0\Repositories.genruntimeconfig.cache
+C:\Users\user\Desktop\פרוייקט\פרוייקט API\MatchingProj\Repositories\obj\Debug\net6.0\ref\Repositories.dll
+C:\Users\משתמש זה\Desktop\APIProj\MatchingProj\Repositories\bin\Debug\net6.0\Repositories.deps.json
+C:\Users\משתמש זה\Desktop\APIProj\MatchingProj\Repositories\bin\Debug\net6.0\Repositories.runtimeconfig.json
+C:\Users\משתמש זה\Desktop\APIProj\MatchingProj\Repositories\bin\Debug\net6.0\Repositories.dll
+C:\Users\משתמש זה\Desktop\APIProj\MatchingProj\Repositories\bin\Debug\net6.0\ref\Repositories.dll
+C:\Users\משתמש זה\Desktop\APIProj\MatchingProj\Repositories\bin\Debug\net6.0\Repositories.pdb
+C:\Users\משתמש זה\Desktop\APIProj\MatchingProj\Repositories\obj\Debug\net6.0\Repositories.csproj.AssemblyReference.cache
+C:\Users\משתמש זה\Desktop\APIProj\MatchingProj\Repositories\obj\Debug\net6.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\משתמש זה\Desktop\APIProj\MatchingProj\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfoInputs.cache
+C:\Users\משתמש זה\Desktop\APIProj\MatchingProj\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfo.cs
+C:\Users\משתמש זה\Desktop\APIProj\MatchingProj\Repositories\obj\Debug\net6.0\Repositories.csproj.CoreCompileInputs.cache
+C:\Users\משתמש זה\Desktop\APIProj\MatchingProj\Repositories\obj\Debug\net6.0\Repositories.dll
+C:\Users\משתמש זה\Desktop\APIProj\MatchingProj\Repositories\obj\Debug\net6.0\ref\Repositories.dll
+C:\Users\משתמש זה\Desktop\APIProj\MatchingProj\Repositories\obj\Debug\net6.0\Repositories.pdb
+C:\Users\משתמש זה\Desktop\APIProj\MatchingProj\Repositories\obj\Debug\net6.0\Repositories.genruntimeconfig.cache
+C:\Users\user\Documents\פרוייקטים להגה\הפרוייקט הטוב\APIProj\MatchingProj\Repositories\bin\Debug\net6.0\Repositories.deps.json
+C:\Users\user\Documents\פרוייקטים להגה\הפרוייקט הטוב\APIProj\MatchingProj\Repositories\bin\Debug\net6.0\Repositories.runtimeconfig.json
+C:\Users\user\Documents\פרוייקטים להגה\הפרוייקט הטוב\APIProj\MatchingProj\Repositories\bin\Debug\net6.0\Repositories.dll
+C:\Users\user\Documents\פרוייקטים להגה\הפרוייקט הטוב\APIProj\MatchingProj\Repositories\bin\Debug\net6.0\Repositories.pdb
+C:\Users\user\Documents\פרוייקטים להגה\הפרוייקט הטוב\APIProj\MatchingProj\Repositories\obj\Debug\net6.0\Repositories.csproj.AssemblyReference.cache
+C:\Users\user\Documents\פרוייקטים להגה\הפרוייקט הטוב\APIProj\MatchingProj\Repositories\obj\Debug\net6.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\פרוייקטים להגה\הפרוייקט הטוב\APIProj\MatchingProj\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfoInputs.cache
+C:\Users\user\Documents\פרוייקטים להגה\הפרוייקט הטוב\APIProj\MatchingProj\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfo.cs
+C:\Users\user\Documents\פרוייקטים להגה\הפרוייקט הטוב\APIProj\MatchingProj\Repositories\obj\Debug\net6.0\Repositories.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\פרוייקטים להגה\הפרוייקט הטוב\APIProj\MatchingProj\Repositories\obj\Debug\net6.0\Repositories.dll
+C:\Users\user\Documents\פרוייקטים להגה\הפרוייקט הטוב\APIProj\MatchingProj\Repositories\obj\Debug\net6.0\refint\Repositories.dll
+C:\Users\user\Documents\פרוייקטים להגה\הפרוייקט הטוב\APIProj\MatchingProj\Repositories\obj\Debug\net6.0\Repositories.pdb
+C:\Users\user\Documents\פרוייקטים להגה\הפרוייקט הטוב\APIProj\MatchingProj\Repositories\obj\Debug\net6.0\Repositories.genruntimeconfig.cache
+C:\Users\user\Documents\פרוייקטים להגה\הפרוייקט הטוב\APIProj\MatchingProj\Repositories\obj\Debug\net6.0\ref\Repositories.dll
+C:\Users\user\Documents\פרוייקטים להגה\WebApiProj\MatchingProj\Repositories\bin\Debug\net6.0\Repositories.deps.json
+C:\Users\user\Documents\פרוייקטים להגה\WebApiProj\MatchingProj\Repositories\bin\Debug\net6.0\Repositories.runtimeconfig.json
+C:\Users\user\Documents\פרוייקטים להגה\WebApiProj\MatchingProj\Repositories\bin\Debug\net6.0\Repositories.dll
+C:\Users\user\Documents\פרוייקטים להגה\WebApiProj\MatchingProj\Repositories\bin\Debug\net6.0\Repositories.pdb
+C:\Users\user\Documents\פרוייקטים להגה\WebApiProj\MatchingProj\Repositories\obj\Debug\net6.0\Repositories.csproj.AssemblyReference.cache
+C:\Users\user\Documents\פרוייקטים להגה\WebApiProj\MatchingProj\Repositories\obj\Debug\net6.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\פרוייקטים להגה\WebApiProj\MatchingProj\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfoInputs.cache
+C:\Users\user\Documents\פרוייקטים להגה\WebApiProj\MatchingProj\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfo.cs
+C:\Users\user\Documents\פרוייקטים להגה\WebApiProj\MatchingProj\Repositories\obj\Debug\net6.0\Repositories.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\פרוייקטים להגה\WebApiProj\MatchingProj\Repositories\obj\Debug\net6.0\Repositories.dll
+C:\Users\user\Documents\פרוייקטים להגה\WebApiProj\MatchingProj\Repositories\obj\Debug\net6.0\refint\Repositories.dll
+C:\Users\user\Documents\פרוייקטים להגה\WebApiProj\MatchingProj\Repositories\obj\Debug\net6.0\Repositories.pdb
+C:\Users\user\Documents\פרוייקטים להגה\WebApiProj\MatchingProj\Repositories\obj\Debug\net6.0\Repositories.genruntimeconfig.cache
+C:\Users\user\Documents\פרוייקטים להגה\WebApiProj\MatchingProj\Repositories\obj\Debug\net6.0\ref\Repositories.dll

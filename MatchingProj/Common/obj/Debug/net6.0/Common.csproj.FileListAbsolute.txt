@@ -1,0 +1,192 @@
+C:\Users\user\Documents\MatchingProj\Common\bin\Debug\net6.0\Common.deps.json
+C:\Users\user\Documents\MatchingProj\Common\bin\Debug\net6.0\Common.dll
+C:\Users\user\Documents\MatchingProj\Common\bin\Debug\net6.0\Common.pdb
+C:\Users\user\Documents\MatchingProj\Common\obj\Debug\net6.0\Common.csproj.AssemblyReference.cache
+C:\Users\user\Documents\MatchingProj\Common\obj\Debug\net6.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\MatchingProj\Common\obj\Debug\net6.0\Common.AssemblyInfoInputs.cache
+C:\Users\user\Documents\MatchingProj\Common\obj\Debug\net6.0\Common.AssemblyInfo.cs
+C:\Users\user\Documents\MatchingProj\Common\obj\Debug\net6.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\MatchingProj\Common\obj\Debug\net6.0\Common.dll
+C:\Users\user\Documents\MatchingProj\Common\obj\Debug\net6.0\refint\Common.dll
+C:\Users\user\Documents\MatchingProj\Common\obj\Debug\net6.0\Common.pdb
+C:\Users\user\Documents\MatchingProj\Common\obj\Debug\net6.0\ref\Common.dll
+C:\Users\USER\Downloads\MatchingProj\Common\bin\Debug\net6.0\Common.deps.json
+C:\Users\USER\Downloads\MatchingProj\Common\bin\Debug\net6.0\Common.dll
+C:\Users\USER\Downloads\MatchingProj\Common\bin\Debug\net6.0\Common.pdb
+C:\Users\USER\Downloads\MatchingProj\Common\obj\Debug\net6.0\Common.csproj.AssemblyReference.cache
+C:\Users\USER\Downloads\MatchingProj\Common\obj\Debug\net6.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Downloads\MatchingProj\Common\obj\Debug\net6.0\Common.AssemblyInfoInputs.cache
+C:\Users\USER\Downloads\MatchingProj\Common\obj\Debug\net6.0\Common.AssemblyInfo.cs
+C:\Users\USER\Downloads\MatchingProj\Common\obj\Debug\net6.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\MatchingProj\Common\obj\Debug\net6.0\Common.dll
+C:\Users\USER\Downloads\MatchingProj\Common\obj\Debug\net6.0\refint\Common.dll
+C:\Users\USER\Downloads\MatchingProj\Common\obj\Debug\net6.0\Common.pdb
+C:\Users\USER\Downloads\MatchingProj\Common\obj\Debug\net6.0\ref\Common.dll
+C:\Users\user\Desktop\פרוייקט\MatchingProj\Common\bin\Debug\net6.0\Common.deps.json
+C:\Users\user\Desktop\פרוייקט\MatchingProj\Common\bin\Debug\net6.0\Common.dll
+C:\Users\user\Desktop\פרוייקט\MatchingProj\Common\bin\Debug\net6.0\Common.pdb
+C:\Users\user\Desktop\פרוייקט\MatchingProj\Common\obj\Debug\net6.0\Common.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\פרוייקט\MatchingProj\Common\obj\Debug\net6.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\פרוייקט\MatchingProj\Common\obj\Debug\net6.0\Common.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\פרוייקט\MatchingProj\Common\obj\Debug\net6.0\Common.AssemblyInfo.cs
+C:\Users\user\Desktop\פרוייקט\MatchingProj\Common\obj\Debug\net6.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\פרוייקט\MatchingProj\Common\obj\Debug\net6.0\Common.dll
+C:\Users\user\Desktop\פרוייקט\MatchingProj\Common\obj\Debug\net6.0\refint\Common.dll
+C:\Users\user\Desktop\פרוייקט\MatchingProj\Common\obj\Debug\net6.0\Common.pdb
+C:\Users\user\Desktop\פרוייקט\MatchingProj\Common\obj\Debug\net6.0\ref\Common.dll
+C:\Users\משתמש זה\Desktop\פרוייקט API\MatchingProj\Common\bin\Debug\net6.0\Common.deps.json
+C:\Users\משתמש זה\Desktop\פרוייקט API\MatchingProj\Common\bin\Debug\net6.0\Common.dll
+C:\Users\משתמש זה\Desktop\פרוייקט API\MatchingProj\Common\bin\Debug\net6.0\ref\Common.dll
+C:\Users\משתמש זה\Desktop\פרוייקט API\MatchingProj\Common\bin\Debug\net6.0\Common.pdb
+C:\Users\משתמש זה\Desktop\פרוייקט API\MatchingProj\Common\obj\Debug\net6.0\Common.csproj.AssemblyReference.cache
+C:\Users\משתמש זה\Desktop\פרוייקט API\MatchingProj\Common\obj\Debug\net6.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\משתמש זה\Desktop\פרוייקט API\MatchingProj\Common\obj\Debug\net6.0\Common.AssemblyInfoInputs.cache
+C:\Users\משתמש זה\Desktop\פרוייקט API\MatchingProj\Common\obj\Debug\net6.0\Common.AssemblyInfo.cs
+C:\Users\משתמש זה\Desktop\פרוייקט API\MatchingProj\Common\obj\Debug\net6.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\משתמש זה\Desktop\פרוייקט API\MatchingProj\Common\obj\Debug\net6.0\Common.dll
+C:\Users\משתמש זה\Desktop\פרוייקט API\MatchingProj\Common\obj\Debug\net6.0\ref\Common.dll
+C:\Users\משתמש זה\Desktop\פרוייקט API\MatchingProj\Common\obj\Debug\net6.0\Common.pdb
+C:\Users\user\Desktop\פרוייקט API\MatchingProj\Common\bin\Debug\net6.0\Common.deps.json
+C:\Users\user\Desktop\פרוייקט API\MatchingProj\Common\bin\Debug\net6.0\Common.dll
+C:\Users\user\Desktop\פרוייקט API\MatchingProj\Common\bin\Debug\net6.0\Common.pdb
+C:\Users\user\Desktop\פרוייקט API\MatchingProj\Common\obj\Debug\net6.0\Common.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\פרוייקט API\MatchingProj\Common\obj\Debug\net6.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\פרוייקט API\MatchingProj\Common\obj\Debug\net6.0\Common.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\פרוייקט API\MatchingProj\Common\obj\Debug\net6.0\Common.AssemblyInfo.cs
+C:\Users\user\Desktop\פרוייקט API\MatchingProj\Common\obj\Debug\net6.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\פרוייקט API\MatchingProj\Common\obj\Debug\net6.0\Common.dll
+C:\Users\user\Desktop\פרוייקט API\MatchingProj\Common\obj\Debug\net6.0\refint\Common.dll
+C:\Users\user\Desktop\פרוייקט API\MatchingProj\Common\obj\Debug\net6.0\Common.pdb
+C:\Users\user\Desktop\פרוייקט API\MatchingProj\Common\obj\Debug\net6.0\ref\Common.dll
+C:\Users\user\Music\פרוייקט API\MatchingProj\Common\bin\Debug\net6.0\Common.deps.json
+C:\Users\user\Music\פרוייקט API\MatchingProj\Common\bin\Debug\net6.0\Common.dll
+C:\Users\user\Music\פרוייקט API\MatchingProj\Common\bin\Debug\net6.0\Common.pdb
+C:\Users\user\Music\פרוייקט API\MatchingProj\Common\obj\Debug\net6.0\Common.csproj.AssemblyReference.cache
+C:\Users\user\Music\פרוייקט API\MatchingProj\Common\obj\Debug\net6.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Music\פרוייקט API\MatchingProj\Common\obj\Debug\net6.0\Common.AssemblyInfoInputs.cache
+C:\Users\user\Music\פרוייקט API\MatchingProj\Common\obj\Debug\net6.0\Common.AssemblyInfo.cs
+C:\Users\user\Music\פרוייקט API\MatchingProj\Common\obj\Debug\net6.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\user\Music\פרוייקט API\MatchingProj\Common\obj\Debug\net6.0\Common.dll
+C:\Users\user\Music\פרוייקט API\MatchingProj\Common\obj\Debug\net6.0\refint\Common.dll
+C:\Users\user\Music\פרוייקט API\MatchingProj\Common\obj\Debug\net6.0\Common.pdb
+C:\Users\user\Music\פרוייקט API\MatchingProj\Common\obj\Debug\net6.0\ref\Common.dll
+C:\Users\user\3D Objects\פרוייקט API\MatchingProj\Common\bin\Debug\net6.0\Common.deps.json
+C:\Users\user\3D Objects\פרוייקט API\MatchingProj\Common\bin\Debug\net6.0\Common.dll
+C:\Users\user\3D Objects\פרוייקט API\MatchingProj\Common\bin\Debug\net6.0\Common.pdb
+C:\Users\user\3D Objects\פרוייקט API\MatchingProj\Common\obj\Debug\net6.0\Common.csproj.AssemblyReference.cache
+C:\Users\user\3D Objects\פרוייקט API\MatchingProj\Common\obj\Debug\net6.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\3D Objects\פרוייקט API\MatchingProj\Common\obj\Debug\net6.0\Common.AssemblyInfoInputs.cache
+C:\Users\user\3D Objects\פרוייקט API\MatchingProj\Common\obj\Debug\net6.0\Common.AssemblyInfo.cs
+C:\Users\user\3D Objects\פרוייקט API\MatchingProj\Common\obj\Debug\net6.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\user\3D Objects\פרוייקט API\MatchingProj\Common\obj\Debug\net6.0\Common.dll
+C:\Users\user\3D Objects\פרוייקט API\MatchingProj\Common\obj\Debug\net6.0\refint\Common.dll
+C:\Users\user\3D Objects\פרוייקט API\MatchingProj\Common\obj\Debug\net6.0\Common.pdb
+C:\Users\user\3D Objects\פרוייקט API\MatchingProj\Common\obj\Debug\net6.0\ref\Common.dll
+C:\Users\user\3D Objects\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Common\bin\Debug\net6.0\Common.deps.json
+C:\Users\user\3D Objects\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Common\bin\Debug\net6.0\Common.dll
+C:\Users\user\3D Objects\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Common\bin\Debug\net6.0\Common.pdb
+C:\Users\user\3D Objects\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Common\obj\Debug\net6.0\Common.csproj.AssemblyReference.cache
+C:\Users\user\3D Objects\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Common\obj\Debug\net6.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\3D Objects\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Common\obj\Debug\net6.0\Common.AssemblyInfoInputs.cache
+C:\Users\user\3D Objects\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Common\obj\Debug\net6.0\Common.AssemblyInfo.cs
+C:\Users\user\3D Objects\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Common\obj\Debug\net6.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\user\3D Objects\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Common\obj\Debug\net6.0\Common.dll
+C:\Users\user\3D Objects\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Common\obj\Debug\net6.0\refint\Common.dll
+C:\Users\user\3D Objects\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Common\obj\Debug\net6.0\Common.pdb
+C:\Users\user\3D Objects\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Common\obj\Debug\net6.0\ref\Common.dll
+C:\Users\HP\Downloads\גיבוי_2_לפני_הוספת_טבלה (1)\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Common\bin\Debug\net6.0\Common.deps.json
+C:\Users\HP\Downloads\גיבוי_2_לפני_הוספת_טבלה (1)\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Common\bin\Debug\net6.0\Common.dll
+C:\Users\HP\Downloads\גיבוי_2_לפני_הוספת_טבלה (1)\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Common\bin\Debug\net6.0\Common.pdb
+C:\Users\HP\Downloads\גיבוי_2_לפני_הוספת_טבלה (1)\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Common\obj\Debug\net6.0\Common.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\גיבוי_2_לפני_הוספת_טבלה (1)\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Common\obj\Debug\net6.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\גיבוי_2_לפני_הוספת_טבלה (1)\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Common\obj\Debug\net6.0\Common.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\גיבוי_2_לפני_הוספת_טבלה (1)\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Common\obj\Debug\net6.0\Common.AssemblyInfo.cs
+C:\Users\HP\Downloads\גיבוי_2_לפני_הוספת_טבלה (1)\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Common\obj\Debug\net6.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\גיבוי_2_לפני_הוספת_טבלה (1)\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Common\obj\Debug\net6.0\Common.dll
+C:\Users\HP\Downloads\גיבוי_2_לפני_הוספת_טבלה (1)\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Common\obj\Debug\net6.0\refint\Common.dll
+C:\Users\HP\Downloads\גיבוי_2_לפני_הוספת_טבלה (1)\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Common\obj\Debug\net6.0\Common.pdb
+C:\Users\HP\Downloads\גיבוי_2_לפני_הוספת_טבלה (1)\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Common\obj\Debug\net6.0\ref\Common.dll
+C:\Users\user\Downloads\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Common\bin\Debug\net6.0\Common.deps.json
+C:\Users\user\Downloads\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Common\bin\Debug\net6.0\Common.dll
+C:\Users\user\Downloads\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Common\bin\Debug\net6.0\Common.pdb
+C:\Users\user\Downloads\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Common\obj\Debug\net6.0\Common.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Common\obj\Debug\net6.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Downloads\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Common\obj\Debug\net6.0\Common.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Common\obj\Debug\net6.0\Common.AssemblyInfo.cs
+C:\Users\user\Downloads\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Common\obj\Debug\net6.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Common\obj\Debug\net6.0\Common.dll
+C:\Users\user\Downloads\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Common\obj\Debug\net6.0\refint\Common.dll
+C:\Users\user\Downloads\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Common\obj\Debug\net6.0\Common.pdb
+C:\Users\user\Downloads\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Common\obj\Debug\net6.0\ref\Common.dll
+C:\Users\user\Documents\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Common\bin\Debug\net6.0\Common.deps.json
+C:\Users\user\Documents\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Common\bin\Debug\net6.0\Common.dll
+C:\Users\user\Documents\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Common\bin\Debug\net6.0\Common.pdb
+C:\Users\user\Documents\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Common\obj\Debug\net6.0\Common.csproj.AssemblyReference.cache
+C:\Users\user\Documents\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Common\obj\Debug\net6.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Common\obj\Debug\net6.0\Common.AssemblyInfoInputs.cache
+C:\Users\user\Documents\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Common\obj\Debug\net6.0\Common.AssemblyInfo.cs
+C:\Users\user\Documents\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Common\obj\Debug\net6.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Common\obj\Debug\net6.0\Common.dll
+C:\Users\user\Documents\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Common\obj\Debug\net6.0\refint\Common.dll
+C:\Users\user\Documents\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Common\obj\Debug\net6.0\Common.pdb
+C:\Users\user\Documents\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Common\obj\Debug\net6.0\ref\Common.dll
+C:\Users\משתמש זה\Desktop\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Common\bin\Debug\net6.0\Common.deps.json
+C:\Users\משתמש זה\Desktop\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Common\bin\Debug\net6.0\Common.dll
+C:\Users\משתמש זה\Desktop\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Common\bin\Debug\net6.0\ref\Common.dll
+C:\Users\משתמש זה\Desktop\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Common\bin\Debug\net6.0\Common.pdb
+C:\Users\משתמש זה\Desktop\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Common\obj\Debug\net6.0\Common.csproj.AssemblyReference.cache
+C:\Users\משתמש זה\Desktop\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Common\obj\Debug\net6.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\משתמש זה\Desktop\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Common\obj\Debug\net6.0\Common.AssemblyInfoInputs.cache
+C:\Users\משתמש זה\Desktop\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Common\obj\Debug\net6.0\Common.AssemblyInfo.cs
+C:\Users\משתמש זה\Desktop\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Common\obj\Debug\net6.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\משתמש זה\Desktop\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Common\obj\Debug\net6.0\Common.dll
+C:\Users\משתמש זה\Desktop\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Common\obj\Debug\net6.0\ref\Common.dll
+C:\Users\משתמש זה\Desktop\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Common\obj\Debug\net6.0\Common.pdb
+C:\Users\user\Desktop\פרוייקט\פרוייקט API\MatchingProj\Common\bin\Debug\net6.0\Common.deps.json
+C:\Users\user\Desktop\פרוייקט\פרוייקט API\MatchingProj\Common\bin\Debug\net6.0\Common.dll
+C:\Users\user\Desktop\פרוייקט\פרוייקט API\MatchingProj\Common\bin\Debug\net6.0\Common.pdb
+C:\Users\user\Desktop\פרוייקט\פרוייקט API\MatchingProj\Common\obj\Debug\net6.0\Common.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\פרוייקט\פרוייקט API\MatchingProj\Common\obj\Debug\net6.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\פרוייקט\פרוייקט API\MatchingProj\Common\obj\Debug\net6.0\Common.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\פרוייקט\פרוייקט API\MatchingProj\Common\obj\Debug\net6.0\Common.AssemblyInfo.cs
+C:\Users\user\Desktop\פרוייקט\פרוייקט API\MatchingProj\Common\obj\Debug\net6.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\פרוייקט\פרוייקט API\MatchingProj\Common\obj\Debug\net6.0\Common.dll
+C:\Users\user\Desktop\פרוייקט\פרוייקט API\MatchingProj\Common\obj\Debug\net6.0\refint\Common.dll
+C:\Users\user\Desktop\פרוייקט\פרוייקט API\MatchingProj\Common\obj\Debug\net6.0\Common.pdb
+C:\Users\user\Desktop\פרוייקט\פרוייקט API\MatchingProj\Common\obj\Debug\net6.0\ref\Common.dll
+C:\Users\משתמש זה\Desktop\APIProj\MatchingProj\Common\bin\Debug\net6.0\Common.deps.json
+C:\Users\משתמש זה\Desktop\APIProj\MatchingProj\Common\bin\Debug\net6.0\Common.dll
+C:\Users\משתמש זה\Desktop\APIProj\MatchingProj\Common\bin\Debug\net6.0\ref\Common.dll
+C:\Users\משתמש זה\Desktop\APIProj\MatchingProj\Common\bin\Debug\net6.0\Common.pdb
+C:\Users\משתמש זה\Desktop\APIProj\MatchingProj\Common\obj\Debug\net6.0\Common.csproj.AssemblyReference.cache
+C:\Users\משתמש זה\Desktop\APIProj\MatchingProj\Common\obj\Debug\net6.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\משתמש זה\Desktop\APIProj\MatchingProj\Common\obj\Debug\net6.0\Common.AssemblyInfoInputs.cache
+C:\Users\משתמש זה\Desktop\APIProj\MatchingProj\Common\obj\Debug\net6.0\Common.AssemblyInfo.cs
+C:\Users\משתמש זה\Desktop\APIProj\MatchingProj\Common\obj\Debug\net6.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\משתמש זה\Desktop\APIProj\MatchingProj\Common\obj\Debug\net6.0\Common.dll
+C:\Users\משתמש זה\Desktop\APIProj\MatchingProj\Common\obj\Debug\net6.0\ref\Common.dll
+C:\Users\משתמש זה\Desktop\APIProj\MatchingProj\Common\obj\Debug\net6.0\Common.pdb
+C:\Users\user\Documents\פרוייקטים להגה\הפרוייקט הטוב\APIProj\MatchingProj\Common\bin\Debug\net6.0\Common.deps.json
+C:\Users\user\Documents\פרוייקטים להגה\הפרוייקט הטוב\APIProj\MatchingProj\Common\bin\Debug\net6.0\Common.dll
+C:\Users\user\Documents\פרוייקטים להגה\הפרוייקט הטוב\APIProj\MatchingProj\Common\bin\Debug\net6.0\Common.pdb
+C:\Users\user\Documents\פרוייקטים להגה\הפרוייקט הטוב\APIProj\MatchingProj\Common\obj\Debug\net6.0\Common.csproj.AssemblyReference.cache
+C:\Users\user\Documents\פרוייקטים להגה\הפרוייקט הטוב\APIProj\MatchingProj\Common\obj\Debug\net6.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\פרוייקטים להגה\הפרוייקט הטוב\APIProj\MatchingProj\Common\obj\Debug\net6.0\Common.AssemblyInfoInputs.cache
+C:\Users\user\Documents\פרוייקטים להגה\הפרוייקט הטוב\APIProj\MatchingProj\Common\obj\Debug\net6.0\Common.AssemblyInfo.cs
+C:\Users\user\Documents\פרוייקטים להגה\הפרוייקט הטוב\APIProj\MatchingProj\Common\obj\Debug\net6.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\פרוייקטים להגה\הפרוייקט הטוב\APIProj\MatchingProj\Common\obj\Debug\net6.0\Common.dll
+C:\Users\user\Documents\פרוייקטים להגה\הפרוייקט הטוב\APIProj\MatchingProj\Common\obj\Debug\net6.0\refint\Common.dll
+C:\Users\user\Documents\פרוייקטים להגה\הפרוייקט הטוב\APIProj\MatchingProj\Common\obj\Debug\net6.0\Common.pdb
+C:\Users\user\Documents\פרוייקטים להגה\הפרוייקט הטוב\APIProj\MatchingProj\Common\obj\Debug\net6.0\ref\Common.dll
+C:\Users\user\Documents\פרוייקטים להגה\WebApiProj\MatchingProj\Common\bin\Debug\net6.0\Common.deps.json
+C:\Users\user\Documents\פרוייקטים להגה\WebApiProj\MatchingProj\Common\bin\Debug\net6.0\Common.dll
+C:\Users\user\Documents\פרוייקטים להגה\WebApiProj\MatchingProj\Common\bin\Debug\net6.0\Common.pdb
+C:\Users\user\Documents\פרוייקטים להגה\WebApiProj\MatchingProj\Common\obj\Debug\net6.0\Common.csproj.AssemblyReference.cache
+C:\Users\user\Documents\פרוייקטים להגה\WebApiProj\MatchingProj\Common\obj\Debug\net6.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\פרוייקטים להגה\WebApiProj\MatchingProj\Common\obj\Debug\net6.0\Common.AssemblyInfoInputs.cache
+C:\Users\user\Documents\פרוייקטים להגה\WebApiProj\MatchingProj\Common\obj\Debug\net6.0\Common.AssemblyInfo.cs
+C:\Users\user\Documents\פרוייקטים להגה\WebApiProj\MatchingProj\Common\obj\Debug\net6.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\פרוייקטים להגה\WebApiProj\MatchingProj\Common\obj\Debug\net6.0\Common.dll
+C:\Users\user\Documents\פרוייקטים להגה\WebApiProj\MatchingProj\Common\obj\Debug\net6.0\refint\Common.dll
+C:\Users\user\Documents\פרוייקטים להגה\WebApiProj\MatchingProj\Common\obj\Debug\net6.0\Common.pdb
+C:\Users\user\Documents\פרוייקטים להגה\WebApiProj\MatchingProj\Common\obj\Debug\net6.0\ref\Common.dll

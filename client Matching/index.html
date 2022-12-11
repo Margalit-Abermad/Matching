@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <script src="code.js"></script>
+    <link
+      rel="shortcut icon"
+      href="Picture/לב בלי רקע.png"
+      type="image/x-icon"
+    />
+    <title>Matching</title>
+  </head>
+
+  <body onload="GetTarget()">
+    <img src="Picture/לבן סגור תמונה.jpg" alt="" />
+    <div class="grid-container">
+      <!-- <div id="title" class="grid-item">Matching</div> -->
+      <div id="img" class="grid-item">
+      </div>
+      <div id="target" class="grid-item">
+        <p id="timmer"></p>
+        <div id="target-details">
+          <!-- <p>100 collected</p>
+            <p>Missing another 200 to reach the destination</p>
+           <h2> Target 10000</h2> -->
+        </div>
+      </div>
+      <button id="btnCreate" onclick="displayAdd()">Donate now</button>
+      <div id="addD" class="newDonation">
+        <form action="" id="newDonation">
+          <h1 class="title">A new donation</h1>
+          <h3>Select the donation amount</h3>
+          <label for="price">Amount to donate</label>
+          <input type="number" name="price" id="price" required>
+          <br><br>
+          <h3>Personal details</h3>
+          <label for="name">Name</label><br>
+          <input type="text" name="name" id="name"  required>
+          <br><br>
+          <label for="phone">Phone Number</label><br>
+          <input type="tel" name="phone" id="phone" maxlength="10">
+          <br><br>
+          <label for="mail">Email</label><br>
+          <input type="email" name="mail" id="mail">
+          <br><br>
+          <label for="address">Address</label><br>
+          <input type="text" name="address" id="address">
+          <br><br>
+          <h3>Enter payment details</h3>
+          <label for="numCardit">Credit card number</label><br>
+          <input type="text" name="numCardit" id="numCardit" maxlength="16"  required>
+          <br><br>
+          <label for="validity">validity</label><br>
+          <input type="text" name="validity" id="validity"  minlength="4" maxlength="4"  required>
+          <br><br>
+          <label for="threeNum">3 digits on the back of the card</label><br>
+          <input type="text" name="threeNum" id="threeNum" minlength="3" maxlength="3"  required>
+          <br><br><br>
+          <h3>Select rais and fundraisingGroup</h3>
+          <label for="rais">Name rais</label><br>
+          <input type="text" name="rais" id="rais">
+          <br><br>
+          <label for="fundraisingGroup">Name fundraisingGroup</label><br>
+          <input type="text" name="fundraisingGroup" id="fundraisingGroup">
+          <br><br>
+          <button id="btnEnter"  class="button" valid=[disable]>Send</button>
+      </form>
+      </div>
+      <button id="btnRais">Rais</button>
+      <div id="allRais" class="grid-item">
+      </div>
+      <button id="btnDonation">Donation</button>
+      <div id="allDonation" class="grid-item"></div>
+      <div id="footer" class="grid-item">© M&M 2022</div>
+    </div>
+  </body>
+</html>

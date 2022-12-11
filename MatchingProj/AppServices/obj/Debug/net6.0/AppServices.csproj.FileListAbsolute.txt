@@ -1,0 +1,272 @@
+C:\Users\user\Documents\MatchingProj\AppServices\bin\Debug\net6.0\AppServices.deps.json
+C:\Users\user\Documents\MatchingProj\AppServices\bin\Debug\net6.0\AppServices.dll
+C:\Users\user\Documents\MatchingProj\AppServices\bin\Debug\net6.0\AppServices.pdb
+C:\Users\user\Documents\MatchingProj\AppServices\obj\Debug\net6.0\AppServices.csproj.AssemblyReference.cache
+C:\Users\user\Documents\MatchingProj\AppServices\obj\Debug\net6.0\AppServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\MatchingProj\AppServices\obj\Debug\net6.0\AppServices.AssemblyInfoInputs.cache
+C:\Users\user\Documents\MatchingProj\AppServices\obj\Debug\net6.0\AppServices.AssemblyInfo.cs
+C:\Users\user\Documents\MatchingProj\AppServices\obj\Debug\net6.0\AppServices.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\MatchingProj\AppServices\obj\Debug\net6.0\AppServices.dll
+C:\Users\user\Documents\MatchingProj\AppServices\obj\Debug\net6.0\refint\AppServices.dll
+C:\Users\user\Documents\MatchingProj\AppServices\obj\Debug\net6.0\AppServices.pdb
+C:\Users\user\Documents\MatchingProj\AppServices\obj\Debug\net6.0\ref\AppServices.dll
+C:\Users\user\Documents\MatchingProj\AppServices\bin\Debug\net6.0\Common.dll
+C:\Users\user\Documents\MatchingProj\AppServices\bin\Debug\net6.0\Repositories.dll
+C:\Users\user\Documents\MatchingProj\AppServices\bin\Debug\net6.0\Common.pdb
+C:\Users\user\Documents\MatchingProj\AppServices\bin\Debug\net6.0\Repositories.pdb
+C:\Users\user\Documents\MatchingProj\AppServices\obj\Debug\net6.0\AppServices.csproj.CopyComplete
+C:\Users\USER\Downloads\MatchingProj\AppServices\bin\Debug\net6.0\AppServices.deps.json
+C:\Users\USER\Downloads\MatchingProj\AppServices\bin\Debug\net6.0\AppServices.dll
+C:\Users\USER\Downloads\MatchingProj\AppServices\bin\Debug\net6.0\AppServices.pdb
+C:\Users\USER\Downloads\MatchingProj\AppServices\bin\Debug\net6.0\Common.dll
+C:\Users\USER\Downloads\MatchingProj\AppServices\bin\Debug\net6.0\Repositories.dll
+C:\Users\USER\Downloads\MatchingProj\AppServices\bin\Debug\net6.0\Common.pdb
+C:\Users\USER\Downloads\MatchingProj\AppServices\bin\Debug\net6.0\Repositories.pdb
+C:\Users\USER\Downloads\MatchingProj\AppServices\obj\Debug\net6.0\AppServices.csproj.AssemblyReference.cache
+C:\Users\USER\Downloads\MatchingProj\AppServices\obj\Debug\net6.0\AppServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Downloads\MatchingProj\AppServices\obj\Debug\net6.0\AppServices.AssemblyInfoInputs.cache
+C:\Users\USER\Downloads\MatchingProj\AppServices\obj\Debug\net6.0\AppServices.AssemblyInfo.cs
+C:\Users\USER\Downloads\MatchingProj\AppServices\obj\Debug\net6.0\AppServices.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\MatchingProj\AppServices\obj\Debug\net6.0\AppServices.csproj.CopyComplete
+C:\Users\USER\Downloads\MatchingProj\AppServices\obj\Debug\net6.0\AppServices.dll
+C:\Users\USER\Downloads\MatchingProj\AppServices\obj\Debug\net6.0\refint\AppServices.dll
+C:\Users\USER\Downloads\MatchingProj\AppServices\obj\Debug\net6.0\AppServices.pdb
+C:\Users\USER\Downloads\MatchingProj\AppServices\obj\Debug\net6.0\ref\AppServices.dll
+C:\Users\user\Desktop\פרוייקט\MatchingProj\AppServices\bin\Debug\net6.0\AppServices.deps.json
+C:\Users\user\Desktop\פרוייקט\MatchingProj\AppServices\bin\Debug\net6.0\AppServices.dll
+C:\Users\user\Desktop\פרוייקט\MatchingProj\AppServices\bin\Debug\net6.0\AppServices.pdb
+C:\Users\user\Desktop\פרוייקט\MatchingProj\AppServices\bin\Debug\net6.0\Common.dll
+C:\Users\user\Desktop\פרוייקט\MatchingProj\AppServices\bin\Debug\net6.0\Repositories.dll
+C:\Users\user\Desktop\פרוייקט\MatchingProj\AppServices\bin\Debug\net6.0\Common.pdb
+C:\Users\user\Desktop\פרוייקט\MatchingProj\AppServices\bin\Debug\net6.0\Repositories.pdb
+C:\Users\user\Desktop\פרוייקט\MatchingProj\AppServices\obj\Debug\net6.0\AppServices.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\פרוייקט\MatchingProj\AppServices\obj\Debug\net6.0\AppServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\פרוייקט\MatchingProj\AppServices\obj\Debug\net6.0\AppServices.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\פרוייקט\MatchingProj\AppServices\obj\Debug\net6.0\AppServices.AssemblyInfo.cs
+C:\Users\user\Desktop\פרוייקט\MatchingProj\AppServices\obj\Debug\net6.0\AppServices.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\פרוייקט\MatchingProj\AppServices\obj\Debug\net6.0\AppServices.csproj.CopyComplete
+C:\Users\user\Desktop\פרוייקט\MatchingProj\AppServices\obj\Debug\net6.0\AppServices.dll
+C:\Users\user\Desktop\פרוייקט\MatchingProj\AppServices\obj\Debug\net6.0\refint\AppServices.dll
+C:\Users\user\Desktop\פרוייקט\MatchingProj\AppServices\obj\Debug\net6.0\AppServices.pdb
+C:\Users\user\Desktop\פרוייקט\MatchingProj\AppServices\obj\Debug\net6.0\ref\AppServices.dll
+C:\Users\משתמש זה\Desktop\פרוייקט API\MatchingProj\AppServices\obj\Debug\net6.0\AppServices.dll
+C:\Users\משתמש זה\Desktop\פרוייקט API\MatchingProj\AppServices\obj\Debug\net6.0\ref\AppServices.dll
+C:\Users\משתמש זה\Desktop\פרוייקט API\MatchingProj\AppServices\obj\Debug\net6.0\AppServices.pdb
+C:\Users\user\Desktop\פרוייקט API\MatchingProj\AppServices\bin\Debug\net6.0\AppServices.deps.json
+C:\Users\user\Desktop\פרוייקט API\MatchingProj\AppServices\bin\Debug\net6.0\AppServices.dll
+C:\Users\user\Desktop\פרוייקט API\MatchingProj\AppServices\bin\Debug\net6.0\AppServices.pdb
+C:\Users\user\Desktop\פרוייקט API\MatchingProj\AppServices\bin\Debug\net6.0\Common.dll
+C:\Users\user\Desktop\פרוייקט API\MatchingProj\AppServices\bin\Debug\net6.0\Repositories.dll
+C:\Users\user\Desktop\פרוייקט API\MatchingProj\AppServices\bin\Debug\net6.0\Common.pdb
+C:\Users\user\Desktop\פרוייקט API\MatchingProj\AppServices\bin\Debug\net6.0\Repositories.pdb
+C:\Users\user\Desktop\פרוייקט API\MatchingProj\AppServices\obj\Debug\net6.0\AppServices.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\פרוייקט API\MatchingProj\AppServices\obj\Debug\net6.0\AppServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\פרוייקט API\MatchingProj\AppServices\obj\Debug\net6.0\AppServices.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\פרוייקט API\MatchingProj\AppServices\obj\Debug\net6.0\AppServices.AssemblyInfo.cs
+C:\Users\user\Desktop\פרוייקט API\MatchingProj\AppServices\obj\Debug\net6.0\AppServices.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\פרוייקט API\MatchingProj\AppServices\obj\Debug\net6.0\AppServices.csproj.CopyComplete
+C:\Users\user\Desktop\פרוייקט API\MatchingProj\AppServices\obj\Debug\net6.0\AppServices.dll
+C:\Users\user\Desktop\פרוייקט API\MatchingProj\AppServices\obj\Debug\net6.0\refint\AppServices.dll
+C:\Users\user\Desktop\פרוייקט API\MatchingProj\AppServices\obj\Debug\net6.0\AppServices.pdb
+C:\Users\user\Desktop\פרוייקט API\MatchingProj\AppServices\obj\Debug\net6.0\ref\AppServices.dll
+C:\Users\user\Music\פרוייקט API\MatchingProj\AppServices\bin\Debug\net6.0\AppServices.deps.json
+C:\Users\user\Music\פרוייקט API\MatchingProj\AppServices\bin\Debug\net6.0\AppServices.dll
+C:\Users\user\Music\פרוייקט API\MatchingProj\AppServices\bin\Debug\net6.0\AppServices.pdb
+C:\Users\user\Music\פרוייקט API\MatchingProj\AppServices\bin\Debug\net6.0\Common.dll
+C:\Users\user\Music\פרוייקט API\MatchingProj\AppServices\bin\Debug\net6.0\Repositories.dll
+C:\Users\user\Music\פרוייקט API\MatchingProj\AppServices\bin\Debug\net6.0\Common.pdb
+C:\Users\user\Music\פרוייקט API\MatchingProj\AppServices\bin\Debug\net6.0\Repositories.pdb
+C:\Users\user\Music\פרוייקט API\MatchingProj\AppServices\obj\Debug\net6.0\AppServices.csproj.AssemblyReference.cache
+C:\Users\user\Music\פרוייקט API\MatchingProj\AppServices\obj\Debug\net6.0\AppServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Music\פרוייקט API\MatchingProj\AppServices\obj\Debug\net6.0\AppServices.AssemblyInfoInputs.cache
+C:\Users\user\Music\פרוייקט API\MatchingProj\AppServices\obj\Debug\net6.0\AppServices.AssemblyInfo.cs
+C:\Users\user\Music\פרוייקט API\MatchingProj\AppServices\obj\Debug\net6.0\AppServices.csproj.CoreCompileInputs.cache
+C:\Users\user\Music\פרוייקט API\MatchingProj\AppServices\obj\Debug\net6.0\AppServices.csproj.CopyComplete
+C:\Users\user\Music\פרוייקט API\MatchingProj\AppServices\obj\Debug\net6.0\AppServices.dll
+C:\Users\user\Music\פרוייקט API\MatchingProj\AppServices\obj\Debug\net6.0\refint\AppServices.dll
+C:\Users\user\Music\פרוייקט API\MatchingProj\AppServices\obj\Debug\net6.0\AppServices.pdb
+C:\Users\user\Music\פרוייקט API\MatchingProj\AppServices\obj\Debug\net6.0\ref\AppServices.dll
+C:\Users\user\3D Objects\פרוייקט API\MatchingProj\AppServices\bin\Debug\net6.0\AppServices.deps.json
+C:\Users\user\3D Objects\פרוייקט API\MatchingProj\AppServices\bin\Debug\net6.0\AppServices.dll
+C:\Users\user\3D Objects\פרוייקט API\MatchingProj\AppServices\bin\Debug\net6.0\AppServices.pdb
+C:\Users\user\3D Objects\פרוייקט API\MatchingProj\AppServices\bin\Debug\net6.0\Common.dll
+C:\Users\user\3D Objects\פרוייקט API\MatchingProj\AppServices\bin\Debug\net6.0\Repositories.dll
+C:\Users\user\3D Objects\פרוייקט API\MatchingProj\AppServices\bin\Debug\net6.0\Common.pdb
+C:\Users\user\3D Objects\פרוייקט API\MatchingProj\AppServices\bin\Debug\net6.0\Repositories.pdb
+C:\Users\user\3D Objects\פרוייקט API\MatchingProj\AppServices\obj\Debug\net6.0\AppServices.csproj.AssemblyReference.cache
+C:\Users\user\3D Objects\פרוייקט API\MatchingProj\AppServices\obj\Debug\net6.0\AppServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\3D Objects\פרוייקט API\MatchingProj\AppServices\obj\Debug\net6.0\AppServices.AssemblyInfoInputs.cache
+C:\Users\user\3D Objects\פרוייקט API\MatchingProj\AppServices\obj\Debug\net6.0\AppServices.AssemblyInfo.cs
+C:\Users\user\3D Objects\פרוייקט API\MatchingProj\AppServices\obj\Debug\net6.0\AppServices.csproj.CoreCompileInputs.cache
+C:\Users\user\3D Objects\פרוייקט API\MatchingProj\AppServices\obj\Debug\net6.0\AppServices.csproj.CopyComplete
+C:\Users\user\3D Objects\פרוייקט API\MatchingProj\AppServices\obj\Debug\net6.0\AppServices.dll
+C:\Users\user\3D Objects\פרוייקט API\MatchingProj\AppServices\obj\Debug\net6.0\refint\AppServices.dll
+C:\Users\user\3D Objects\פרוייקט API\MatchingProj\AppServices\obj\Debug\net6.0\AppServices.pdb
+C:\Users\user\3D Objects\פרוייקט API\MatchingProj\AppServices\obj\Debug\net6.0\ref\AppServices.dll
+C:\Users\user\3D Objects\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\AppServices\bin\Debug\net6.0\AppServices.deps.json
+C:\Users\user\3D Objects\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\AppServices\bin\Debug\net6.0\AppServices.dll
+C:\Users\user\3D Objects\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\AppServices\bin\Debug\net6.0\AppServices.pdb
+C:\Users\user\3D Objects\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\AppServices\bin\Debug\net6.0\Common.dll
+C:\Users\user\3D Objects\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\AppServices\bin\Debug\net6.0\Repositories.dll
+C:\Users\user\3D Objects\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\AppServices\bin\Debug\net6.0\Common.pdb
+C:\Users\user\3D Objects\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\AppServices\bin\Debug\net6.0\Repositories.pdb
+C:\Users\user\3D Objects\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\AppServices\obj\Debug\net6.0\AppServices.csproj.AssemblyReference.cache
+C:\Users\user\3D Objects\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\AppServices\obj\Debug\net6.0\AppServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\3D Objects\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\AppServices\obj\Debug\net6.0\AppServices.AssemblyInfoInputs.cache
+C:\Users\user\3D Objects\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\AppServices\obj\Debug\net6.0\AppServices.AssemblyInfo.cs
+C:\Users\user\3D Objects\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\AppServices\obj\Debug\net6.0\AppServices.csproj.CoreCompileInputs.cache
+C:\Users\user\3D Objects\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\AppServices\obj\Debug\net6.0\AppServices.csproj.CopyComplete
+C:\Users\user\3D Objects\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\AppServices\obj\Debug\net6.0\AppServices.dll
+C:\Users\user\3D Objects\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\AppServices\obj\Debug\net6.0\refint\AppServices.dll
+C:\Users\user\3D Objects\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\AppServices\obj\Debug\net6.0\AppServices.pdb
+C:\Users\user\3D Objects\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\AppServices\obj\Debug\net6.0\ref\AppServices.dll
+C:\Users\HP\Downloads\גיבוי_2_לפני_הוספת_טבלה (1)\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\AppServices\bin\Debug\net6.0\AppServices.deps.json
+C:\Users\HP\Downloads\גיבוי_2_לפני_הוספת_טבלה (1)\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\AppServices\bin\Debug\net6.0\AppServices.dll
+C:\Users\HP\Downloads\גיבוי_2_לפני_הוספת_טבלה (1)\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\AppServices\bin\Debug\net6.0\AppServices.pdb
+C:\Users\HP\Downloads\גיבוי_2_לפני_הוספת_טבלה (1)\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\AppServices\bin\Debug\net6.0\Common.dll
+C:\Users\HP\Downloads\גיבוי_2_לפני_הוספת_טבלה (1)\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\AppServices\bin\Debug\net6.0\Repositories.dll
+C:\Users\HP\Downloads\גיבוי_2_לפני_הוספת_טבלה (1)\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\AppServices\bin\Debug\net6.0\Common.pdb
+C:\Users\HP\Downloads\גיבוי_2_לפני_הוספת_טבלה (1)\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\AppServices\bin\Debug\net6.0\Repositories.pdb
+C:\Users\HP\Downloads\גיבוי_2_לפני_הוספת_טבלה (1)\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\AppServices\obj\Debug\net6.0\AppServices.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\גיבוי_2_לפני_הוספת_טבלה (1)\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\AppServices\obj\Debug\net6.0\AppServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\גיבוי_2_לפני_הוספת_טבלה (1)\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\AppServices\obj\Debug\net6.0\AppServices.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\גיבוי_2_לפני_הוספת_טבלה (1)\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\AppServices\obj\Debug\net6.0\AppServices.AssemblyInfo.cs
+C:\Users\HP\Downloads\גיבוי_2_לפני_הוספת_טבלה (1)\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\AppServices\obj\Debug\net6.0\AppServices.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\גיבוי_2_לפני_הוספת_טבלה (1)\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\AppServices\obj\Debug\net6.0\AppServices.csproj.CopyComplete
+C:\Users\HP\Downloads\גיבוי_2_לפני_הוספת_טבלה (1)\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\AppServices\obj\Debug\net6.0\AppServices.dll
+C:\Users\HP\Downloads\גיבוי_2_לפני_הוספת_טבלה (1)\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\AppServices\obj\Debug\net6.0\refint\AppServices.dll
+C:\Users\HP\Downloads\גיבוי_2_לפני_הוספת_טבלה (1)\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\AppServices\obj\Debug\net6.0\AppServices.pdb
+C:\Users\HP\Downloads\גיבוי_2_לפני_הוספת_טבלה (1)\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\AppServices\obj\Debug\net6.0\ref\AppServices.dll
+C:\Users\user\Downloads\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\AppServices\bin\Debug\net6.0\AppServices.deps.json
+C:\Users\user\Downloads\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\AppServices\bin\Debug\net6.0\AppServices.dll
+C:\Users\user\Downloads\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\AppServices\bin\Debug\net6.0\AppServices.pdb
+C:\Users\user\Downloads\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\AppServices\bin\Debug\net6.0\Common.dll
+C:\Users\user\Downloads\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\AppServices\bin\Debug\net6.0\Repositories.dll
+C:\Users\user\Downloads\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\AppServices\bin\Debug\net6.0\Common.pdb
+C:\Users\user\Downloads\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\AppServices\bin\Debug\net6.0\Repositories.pdb
+C:\Users\user\Downloads\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\AppServices\obj\Debug\net6.0\AppServices.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\AppServices\obj\Debug\net6.0\AppServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Downloads\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\AppServices\obj\Debug\net6.0\AppServices.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\AppServices\obj\Debug\net6.0\AppServices.AssemblyInfo.cs
+C:\Users\user\Downloads\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\AppServices\obj\Debug\net6.0\AppServices.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\AppServices\obj\Debug\net6.0\AppServices.csproj.CopyComplete
+C:\Users\user\Downloads\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\AppServices\obj\Debug\net6.0\AppServices.dll
+C:\Users\user\Downloads\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\AppServices\obj\Debug\net6.0\refint\AppServices.dll
+C:\Users\user\Downloads\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\AppServices\obj\Debug\net6.0\AppServices.pdb
+C:\Users\user\Downloads\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\AppServices\obj\Debug\net6.0\ref\AppServices.dll
+C:\Users\user\Documents\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\AppServices\bin\Debug\net6.0\AppServices.deps.json
+C:\Users\user\Documents\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\AppServices\bin\Debug\net6.0\AppServices.dll
+C:\Users\user\Documents\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\AppServices\bin\Debug\net6.0\AppServices.pdb
+C:\Users\user\Documents\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\AppServices\bin\Debug\net6.0\Common.dll
+C:\Users\user\Documents\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\AppServices\bin\Debug\net6.0\Repositories.dll
+C:\Users\user\Documents\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\AppServices\bin\Debug\net6.0\Common.pdb
+C:\Users\user\Documents\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\AppServices\bin\Debug\net6.0\Repositories.pdb
+C:\Users\user\Documents\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\AppServices\obj\Debug\net6.0\AppServices.csproj.AssemblyReference.cache
+C:\Users\user\Documents\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\AppServices\obj\Debug\net6.0\AppServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\AppServices\obj\Debug\net6.0\AppServices.AssemblyInfoInputs.cache
+C:\Users\user\Documents\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\AppServices\obj\Debug\net6.0\AppServices.AssemblyInfo.cs
+C:\Users\user\Documents\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\AppServices\obj\Debug\net6.0\AppServices.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\AppServices\obj\Debug\net6.0\AppServices.csproj.CopyComplete
+C:\Users\user\Documents\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\AppServices\obj\Debug\net6.0\AppServices.dll
+C:\Users\user\Documents\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\AppServices\obj\Debug\net6.0\refint\AppServices.dll
+C:\Users\user\Documents\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\AppServices\obj\Debug\net6.0\AppServices.pdb
+C:\Users\user\Documents\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\AppServices\obj\Debug\net6.0\ref\AppServices.dll
+C:\Users\משתמש זה\Desktop\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\AppServices\bin\Debug\net6.0\AppServices.deps.json
+C:\Users\משתמש זה\Desktop\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\AppServices\bin\Debug\net6.0\AppServices.dll
+C:\Users\משתמש זה\Desktop\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\AppServices\bin\Debug\net6.0\ref\AppServices.dll
+C:\Users\משתמש זה\Desktop\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\AppServices\bin\Debug\net6.0\AppServices.pdb
+C:\Users\משתמש זה\Desktop\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\AppServices\bin\Debug\net6.0\Common.dll
+C:\Users\משתמש זה\Desktop\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\AppServices\bin\Debug\net6.0\Repositories.dll
+C:\Users\משתמש זה\Desktop\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\AppServices\bin\Debug\net6.0\Common.pdb
+C:\Users\משתמש זה\Desktop\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\AppServices\bin\Debug\net6.0\Repositories.pdb
+C:\Users\משתמש זה\Desktop\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\AppServices\obj\Debug\net6.0\AppServices.csproj.AssemblyReference.cache
+C:\Users\משתמש זה\Desktop\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\AppServices\obj\Debug\net6.0\AppServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\משתמש זה\Desktop\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\AppServices\obj\Debug\net6.0\AppServices.AssemblyInfoInputs.cache
+C:\Users\משתמש זה\Desktop\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\AppServices\obj\Debug\net6.0\AppServices.AssemblyInfo.cs
+C:\Users\משתמש זה\Desktop\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\AppServices\obj\Debug\net6.0\AppServices.csproj.CoreCompileInputs.cache
+C:\Users\משתמש זה\Desktop\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\AppServices\obj\Debug\net6.0\AppServices.csproj.CopyComplete
+C:\Users\משתמש זה\Desktop\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\AppServices\obj\Debug\net6.0\AppServices.dll
+C:\Users\משתמש זה\Desktop\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\AppServices\obj\Debug\net6.0\ref\AppServices.dll
+C:\Users\משתמש זה\Desktop\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\AppServices\obj\Debug\net6.0\AppServices.pdb
+C:\Users\משתמש זה\Desktop\פרוייקט API\MatchingProj\AppServices\bin\Debug\net6.0\AppServices.deps.json
+C:\Users\משתמש זה\Desktop\פרוייקט API\MatchingProj\AppServices\bin\Debug\net6.0\AppServices.dll
+C:\Users\משתמש זה\Desktop\פרוייקט API\MatchingProj\AppServices\bin\Debug\net6.0\ref\AppServices.dll
+C:\Users\משתמש זה\Desktop\פרוייקט API\MatchingProj\AppServices\bin\Debug\net6.0\AppServices.pdb
+C:\Users\משתמש זה\Desktop\פרוייקט API\MatchingProj\AppServices\bin\Debug\net6.0\Common.dll
+C:\Users\משתמש זה\Desktop\פרוייקט API\MatchingProj\AppServices\bin\Debug\net6.0\Repositories.dll
+C:\Users\משתמש זה\Desktop\פרוייקט API\MatchingProj\AppServices\bin\Debug\net6.0\Common.pdb
+C:\Users\משתמש זה\Desktop\פרוייקט API\MatchingProj\AppServices\bin\Debug\net6.0\Repositories.pdb
+C:\Users\משתמש זה\Desktop\פרוייקט API\MatchingProj\AppServices\obj\Debug\net6.0\AppServices.csproj.AssemblyReference.cache
+C:\Users\משתמש זה\Desktop\פרוייקט API\MatchingProj\AppServices\obj\Debug\net6.0\AppServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\משתמש זה\Desktop\פרוייקט API\MatchingProj\AppServices\obj\Debug\net6.0\AppServices.AssemblyInfoInputs.cache
+C:\Users\משתמש זה\Desktop\פרוייקט API\MatchingProj\AppServices\obj\Debug\net6.0\AppServices.AssemblyInfo.cs
+C:\Users\משתמש זה\Desktop\פרוייקט API\MatchingProj\AppServices\obj\Debug\net6.0\AppServices.csproj.CoreCompileInputs.cache
+C:\Users\משתמש זה\Desktop\פרוייקט API\MatchingProj\AppServices\obj\Debug\net6.0\AppServices.csproj.CopyComplete
+C:\Users\user\Desktop\פרוייקט\פרוייקט API\MatchingProj\AppServices\bin\Debug\net6.0\AppServices.deps.json
+C:\Users\user\Desktop\פרוייקט\פרוייקט API\MatchingProj\AppServices\bin\Debug\net6.0\AppServices.dll
+C:\Users\user\Desktop\פרוייקט\פרוייקט API\MatchingProj\AppServices\bin\Debug\net6.0\AppServices.pdb
+C:\Users\user\Desktop\פרוייקט\פרוייקט API\MatchingProj\AppServices\bin\Debug\net6.0\Common.dll
+C:\Users\user\Desktop\פרוייקט\פרוייקט API\MatchingProj\AppServices\bin\Debug\net6.0\Repositories.dll
+C:\Users\user\Desktop\פרוייקט\פרוייקט API\MatchingProj\AppServices\bin\Debug\net6.0\Common.pdb
+C:\Users\user\Desktop\פרוייקט\פרוייקט API\MatchingProj\AppServices\bin\Debug\net6.0\Repositories.pdb
+C:\Users\user\Desktop\פרוייקט\פרוייקט API\MatchingProj\AppServices\obj\Debug\net6.0\AppServices.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\פרוייקט\פרוייקט API\MatchingProj\AppServices\obj\Debug\net6.0\AppServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\פרוייקט\פרוייקט API\MatchingProj\AppServices\obj\Debug\net6.0\AppServices.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\פרוייקט\פרוייקט API\MatchingProj\AppServices\obj\Debug\net6.0\AppServices.AssemblyInfo.cs
+C:\Users\user\Desktop\פרוייקט\פרוייקט API\MatchingProj\AppServices\obj\Debug\net6.0\AppServices.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\פרוייקט\פרוייקט API\MatchingProj\AppServices\obj\Debug\net6.0\AppServices.csproj.CopyComplete
+C:\Users\user\Desktop\פרוייקט\פרוייקט API\MatchingProj\AppServices\obj\Debug\net6.0\AppServices.dll
+C:\Users\user\Desktop\פרוייקט\פרוייקט API\MatchingProj\AppServices\obj\Debug\net6.0\refint\AppServices.dll
+C:\Users\user\Desktop\פרוייקט\פרוייקט API\MatchingProj\AppServices\obj\Debug\net6.0\AppServices.pdb
+C:\Users\user\Desktop\פרוייקט\פרוייקט API\MatchingProj\AppServices\obj\Debug\net6.0\ref\AppServices.dll
+C:\Users\משתמש זה\Desktop\APIProj\MatchingProj\AppServices\bin\Debug\net6.0\AppServices.deps.json
+C:\Users\משתמש זה\Desktop\APIProj\MatchingProj\AppServices\bin\Debug\net6.0\AppServices.dll
+C:\Users\משתמש זה\Desktop\APIProj\MatchingProj\AppServices\bin\Debug\net6.0\ref\AppServices.dll
+C:\Users\משתמש זה\Desktop\APIProj\MatchingProj\AppServices\bin\Debug\net6.0\AppServices.pdb
+C:\Users\משתמש זה\Desktop\APIProj\MatchingProj\AppServices\bin\Debug\net6.0\Common.dll
+C:\Users\משתמש זה\Desktop\APIProj\MatchingProj\AppServices\bin\Debug\net6.0\Repositories.dll
+C:\Users\משתמש זה\Desktop\APIProj\MatchingProj\AppServices\bin\Debug\net6.0\Common.pdb
+C:\Users\משתמש זה\Desktop\APIProj\MatchingProj\AppServices\bin\Debug\net6.0\Repositories.pdb
+C:\Users\משתמש זה\Desktop\APIProj\MatchingProj\AppServices\obj\Debug\net6.0\AppServices.csproj.AssemblyReference.cache
+C:\Users\משתמש זה\Desktop\APIProj\MatchingProj\AppServices\obj\Debug\net6.0\AppServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\משתמש זה\Desktop\APIProj\MatchingProj\AppServices\obj\Debug\net6.0\AppServices.AssemblyInfoInputs.cache
+C:\Users\משתמש זה\Desktop\APIProj\MatchingProj\AppServices\obj\Debug\net6.0\AppServices.AssemblyInfo.cs
+C:\Users\משתמש זה\Desktop\APIProj\MatchingProj\AppServices\obj\Debug\net6.0\AppServices.csproj.CoreCompileInputs.cache
+C:\Users\משתמש זה\Desktop\APIProj\MatchingProj\AppServices\obj\Debug\net6.0\AppServices.csproj.CopyComplete
+C:\Users\משתמש זה\Desktop\APIProj\MatchingProj\AppServices\obj\Debug\net6.0\AppServices.dll
+C:\Users\משתמש זה\Desktop\APIProj\MatchingProj\AppServices\obj\Debug\net6.0\ref\AppServices.dll
+C:\Users\משתמש זה\Desktop\APIProj\MatchingProj\AppServices\obj\Debug\net6.0\AppServices.pdb
+C:\Users\user\Documents\פרוייקטים להגה\הפרוייקט הטוב\APIProj\MatchingProj\AppServices\bin\Debug\net6.0\AppServices.deps.json
+C:\Users\user\Documents\פרוייקטים להגה\הפרוייקט הטוב\APIProj\MatchingProj\AppServices\bin\Debug\net6.0\AppServices.dll
+C:\Users\user\Documents\פרוייקטים להגה\הפרוייקט הטוב\APIProj\MatchingProj\AppServices\bin\Debug\net6.0\AppServices.pdb
+C:\Users\user\Documents\פרוייקטים להגה\הפרוייקט הטוב\APIProj\MatchingProj\AppServices\bin\Debug\net6.0\Common.dll
+C:\Users\user\Documents\פרוייקטים להגה\הפרוייקט הטוב\APIProj\MatchingProj\AppServices\bin\Debug\net6.0\Repositories.dll
+C:\Users\user\Documents\פרוייקטים להגה\הפרוייקט הטוב\APIProj\MatchingProj\AppServices\bin\Debug\net6.0\Common.pdb
+C:\Users\user\Documents\פרוייקטים להגה\הפרוייקט הטוב\APIProj\MatchingProj\AppServices\bin\Debug\net6.0\Repositories.pdb
+C:\Users\user\Documents\פרוייקטים להגה\הפרוייקט הטוב\APIProj\MatchingProj\AppServices\obj\Debug\net6.0\AppServices.csproj.AssemblyReference.cache
+C:\Users\user\Documents\פרוייקטים להגה\הפרוייקט הטוב\APIProj\MatchingProj\AppServices\obj\Debug\net6.0\AppServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\פרוייקטים להגה\הפרוייקט הטוב\APIProj\MatchingProj\AppServices\obj\Debug\net6.0\AppServices.AssemblyInfoInputs.cache
+C:\Users\user\Documents\פרוייקטים להגה\הפרוייקט הטוב\APIProj\MatchingProj\AppServices\obj\Debug\net6.0\AppServices.AssemblyInfo.cs
+C:\Users\user\Documents\פרוייקטים להגה\הפרוייקט הטוב\APIProj\MatchingProj\AppServices\obj\Debug\net6.0\AppServices.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\פרוייקטים להגה\הפרוייקט הטוב\APIProj\MatchingProj\AppServices\obj\Debug\net6.0\AppServices.csproj.CopyComplete
+C:\Users\user\Documents\פרוייקטים להגה\הפרוייקט הטוב\APIProj\MatchingProj\AppServices\obj\Debug\net6.0\AppServices.dll
+C:\Users\user\Documents\פרוייקטים להגה\הפרוייקט הטוב\APIProj\MatchingProj\AppServices\obj\Debug\net6.0\refint\AppServices.dll
+C:\Users\user\Documents\פרוייקטים להגה\הפרוייקט הטוב\APIProj\MatchingProj\AppServices\obj\Debug\net6.0\AppServices.pdb
+C:\Users\user\Documents\פרוייקטים להגה\הפרוייקט הטוב\APIProj\MatchingProj\AppServices\obj\Debug\net6.0\ref\AppServices.dll
+C:\Users\user\Documents\פרוייקטים להגה\WebApiProj\MatchingProj\AppServices\bin\Debug\net6.0\AppServices.deps.json
+C:\Users\user\Documents\פרוייקטים להגה\WebApiProj\MatchingProj\AppServices\bin\Debug\net6.0\AppServices.dll
+C:\Users\user\Documents\פרוייקטים להגה\WebApiProj\MatchingProj\AppServices\bin\Debug\net6.0\AppServices.pdb
+C:\Users\user\Documents\פרוייקטים להגה\WebApiProj\MatchingProj\AppServices\bin\Debug\net6.0\Common.dll
+C:\Users\user\Documents\פרוייקטים להגה\WebApiProj\MatchingProj\AppServices\bin\Debug\net6.0\Repositories.dll
+C:\Users\user\Documents\פרוייקטים להגה\WebApiProj\MatchingProj\AppServices\bin\Debug\net6.0\Common.pdb
+C:\Users\user\Documents\פרוייקטים להגה\WebApiProj\MatchingProj\AppServices\bin\Debug\net6.0\Repositories.pdb
+C:\Users\user\Documents\פרוייקטים להגה\WebApiProj\MatchingProj\AppServices\obj\Debug\net6.0\AppServices.csproj.AssemblyReference.cache
+C:\Users\user\Documents\פרוייקטים להגה\WebApiProj\MatchingProj\AppServices\obj\Debug\net6.0\AppServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\פרוייקטים להגה\WebApiProj\MatchingProj\AppServices\obj\Debug\net6.0\AppServices.AssemblyInfoInputs.cache
+C:\Users\user\Documents\פרוייקטים להגה\WebApiProj\MatchingProj\AppServices\obj\Debug\net6.0\AppServices.AssemblyInfo.cs
+C:\Users\user\Documents\פרוייקטים להגה\WebApiProj\MatchingProj\AppServices\obj\Debug\net6.0\AppServices.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\פרוייקטים להגה\WebApiProj\MatchingProj\AppServices\obj\Debug\net6.0\AppServices.csproj.CopyComplete
+C:\Users\user\Documents\פרוייקטים להגה\WebApiProj\MatchingProj\AppServices\obj\Debug\net6.0\AppServices.dll
+C:\Users\user\Documents\פרוייקטים להגה\WebApiProj\MatchingProj\AppServices\obj\Debug\net6.0\refint\AppServices.dll
+C:\Users\user\Documents\פרוייקטים להגה\WebApiProj\MatchingProj\AppServices\obj\Debug\net6.0\AppServices.pdb
+C:\Users\user\Documents\פרוייקטים להגה\WebApiProj\MatchingProj\AppServices\obj\Debug\net6.0\ref\AppServices.dll

@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "91253266-354f-4ed6-8d55-f85f71dd110f": {
+      "ProjectGuid": "91253266-354f-4ed6-8d55-f85f71dd110f",
+      "DisplayName": "AppServices",
+      "ColorIndex": 0
+    },
+    "20dd73d3-e88c-4ecc-a78c-e5742e848123": {
+      "ProjectGuid": "20dd73d3-e88c-4ecc-a78c-e5742e848123",
+      "DisplayName": "Repositories",
+      "ColorIndex": 1
+    },
+    "60133d26-57bb-489d-bdfc-fea8e250c6b2": {
+      "ProjectGuid": "60133d26-57bb-489d-bdfc-fea8e250c6b2",
+      "DisplayName": "Matching",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "7dc75a11-b7a2-4d4f-9690-474fe480f969": {
+      "ProjectGuid": "7dc75a11-b7a2-4d4f-9690-474fe480f969",
+      "DisplayName": "Common",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

@@ -1,0 +1,1159 @@
+C:\Users\user\Documents\MatchingProj\Matching\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\user\Documents\MatchingProj\Matching\bin\Debug\net6.0\appsettings.json
+C:\Users\user\Documents\MatchingProj\Matching\bin\Debug\net6.0\Matching.exe
+C:\Users\user\Documents\MatchingProj\Matching\bin\Debug\net6.0\Matching.deps.json
+C:\Users\user\Documents\MatchingProj\Matching\bin\Debug\net6.0\Matching.runtimeconfig.json
+C:\Users\user\Documents\MatchingProj\Matching\bin\Debug\net6.0\Matching.dll
+C:\Users\user\Documents\MatchingProj\Matching\bin\Debug\net6.0\Matching.pdb
+C:\Users\user\Documents\MatchingProj\Matching\obj\Debug\net6.0\Matching.csproj.AssemblyReference.cache
+C:\Users\user\Documents\MatchingProj\Matching\obj\Debug\net6.0\Matching.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\MatchingProj\Matching\obj\Debug\net6.0\Matching.AssemblyInfoInputs.cache
+C:\Users\user\Documents\MatchingProj\Matching\obj\Debug\net6.0\Matching.AssemblyInfo.cs
+C:\Users\user\Documents\MatchingProj\Matching\obj\Debug\net6.0\Matching.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\MatchingProj\Matching\obj\Debug\net6.0\Matching.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Documents\MatchingProj\Matching\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\user\Documents\MatchingProj\Matching\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\user\Documents\MatchingProj\Matching\obj\Debug\net6.0\scopedcss\bundle\Matching.styles.css
+C:\Users\user\Documents\MatchingProj\Matching\obj\Debug\net6.0\Matching.dll
+C:\Users\user\Documents\MatchingProj\Matching\obj\Debug\net6.0\refint\Matching.dll
+C:\Users\user\Documents\MatchingProj\Matching\obj\Debug\net6.0\Matching.pdb
+C:\Users\user\Documents\MatchingProj\Matching\obj\Debug\net6.0\Matching.genruntimeconfig.cache
+C:\Users\user\Documents\MatchingProj\Matching\obj\Debug\net6.0\ref\Matching.dll
+C:\Users\user\Documents\MatchingProj\Matching\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\user\Documents\MatchingProj\Matching\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\user\Documents\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user\Documents\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\Documents\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\Documents\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\Documents\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\Documents\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user\Documents\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\user\Documents\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\user\Documents\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\user\Documents\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\Documents\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user\Documents\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\user\Documents\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\user\Documents\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\user\Documents\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\user\Documents\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\user\Documents\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\user\Documents\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\Documents\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\Documents\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\Documents\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\Documents\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\Documents\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Documents\MatchingProj\Matching\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Documents\MatchingProj\Matching\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\user\Documents\MatchingProj\Matching\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\Documents\MatchingProj\Matching\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\user\Documents\MatchingProj\Matching\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Documents\MatchingProj\Matching\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\user\Documents\MatchingProj\Matching\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\user\Documents\MatchingProj\Matching\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Documents\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Documents\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Documents\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Documents\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Documents\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Documents\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Documents\MatchingProj\Matching\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\user\Documents\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\user\Documents\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\user\Documents\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Documents\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\user\Documents\MatchingProj\Matching\bin\Debug\net6.0\AppServices.dll
+C:\Users\user\Documents\MatchingProj\Matching\bin\Debug\net6.0\Common.dll
+C:\Users\user\Documents\MatchingProj\Matching\bin\Debug\net6.0\Repositories.dll
+C:\Users\user\Documents\MatchingProj\Matching\bin\Debug\net6.0\AppServices.pdb
+C:\Users\user\Documents\MatchingProj\Matching\bin\Debug\net6.0\Common.pdb
+C:\Users\user\Documents\MatchingProj\Matching\bin\Debug\net6.0\Repositories.pdb
+C:\Users\user\Documents\MatchingProj\Matching\obj\Debug\net6.0\Matching.csproj.CopyComplete
+C:\Users\USER\Downloads\MatchingProj\Matching\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\USER\Downloads\MatchingProj\Matching\bin\Debug\net6.0\appsettings.json
+C:\Users\USER\Downloads\MatchingProj\Matching\bin\Debug\net6.0\Matching.exe
+C:\Users\USER\Downloads\MatchingProj\Matching\bin\Debug\net6.0\Matching.deps.json
+C:\Users\USER\Downloads\MatchingProj\Matching\bin\Debug\net6.0\Matching.runtimeconfig.json
+C:\Users\USER\Downloads\MatchingProj\Matching\bin\Debug\net6.0\Matching.dll
+C:\Users\USER\Downloads\MatchingProj\Matching\bin\Debug\net6.0\Matching.pdb
+C:\Users\USER\Downloads\MatchingProj\Matching\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\USER\Downloads\MatchingProj\Matching\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\USER\Downloads\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\USER\Downloads\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\USER\Downloads\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\USER\Downloads\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\USER\Downloads\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\USER\Downloads\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\USER\Downloads\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\USER\Downloads\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\USER\Downloads\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\USER\Downloads\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\USER\Downloads\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\USER\Downloads\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\USER\Downloads\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\USER\Downloads\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\USER\Downloads\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\USER\Downloads\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\USER\Downloads\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\USER\Downloads\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\USER\Downloads\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\USER\Downloads\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\USER\Downloads\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\USER\Downloads\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\USER\Downloads\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\USER\Downloads\MatchingProj\Matching\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\USER\Downloads\MatchingProj\Matching\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\USER\Downloads\MatchingProj\Matching\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\USER\Downloads\MatchingProj\Matching\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\USER\Downloads\MatchingProj\Matching\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\USER\Downloads\MatchingProj\Matching\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\USER\Downloads\MatchingProj\Matching\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\USER\Downloads\MatchingProj\Matching\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\USER\Downloads\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\USER\Downloads\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USER\Downloads\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USER\Downloads\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USER\Downloads\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USER\Downloads\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\USER\Downloads\MatchingProj\Matching\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\USER\Downloads\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\USER\Downloads\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\USER\Downloads\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\USER\Downloads\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\USER\Downloads\MatchingProj\Matching\bin\Debug\net6.0\AppServices.dll
+C:\Users\USER\Downloads\MatchingProj\Matching\bin\Debug\net6.0\Common.dll
+C:\Users\USER\Downloads\MatchingProj\Matching\bin\Debug\net6.0\Repositories.dll
+C:\Users\USER\Downloads\MatchingProj\Matching\bin\Debug\net6.0\AppServices.pdb
+C:\Users\USER\Downloads\MatchingProj\Matching\bin\Debug\net6.0\Common.pdb
+C:\Users\USER\Downloads\MatchingProj\Matching\bin\Debug\net6.0\Repositories.pdb
+C:\Users\USER\Downloads\MatchingProj\Matching\obj\Debug\net6.0\Matching.csproj.AssemblyReference.cache
+C:\Users\USER\Downloads\MatchingProj\Matching\obj\Debug\net6.0\Matching.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Downloads\MatchingProj\Matching\obj\Debug\net6.0\Matching.AssemblyInfoInputs.cache
+C:\Users\USER\Downloads\MatchingProj\Matching\obj\Debug\net6.0\Matching.AssemblyInfo.cs
+C:\Users\USER\Downloads\MatchingProj\Matching\obj\Debug\net6.0\Matching.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\MatchingProj\Matching\obj\Debug\net6.0\Matching.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\USER\Downloads\MatchingProj\Matching\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\USER\Downloads\MatchingProj\Matching\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\USER\Downloads\MatchingProj\Matching\obj\Debug\net6.0\scopedcss\bundle\Matching.styles.css
+C:\Users\USER\Downloads\MatchingProj\Matching\obj\Debug\net6.0\Matching.csproj.CopyComplete
+C:\Users\USER\Downloads\MatchingProj\Matching\obj\Debug\net6.0\Matching.dll
+C:\Users\USER\Downloads\MatchingProj\Matching\obj\Debug\net6.0\refint\Matching.dll
+C:\Users\USER\Downloads\MatchingProj\Matching\obj\Debug\net6.0\Matching.pdb
+C:\Users\USER\Downloads\MatchingProj\Matching\obj\Debug\net6.0\Matching.genruntimeconfig.cache
+C:\Users\USER\Downloads\MatchingProj\Matching\obj\Debug\net6.0\ref\Matching.dll
+C:\Users\user\Desktop\פרוייקט\MatchingProj\Matching\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\user\Desktop\פרוייקט\MatchingProj\Matching\bin\Debug\net6.0\appsettings.json
+C:\Users\user\Desktop\פרוייקט\MatchingProj\Matching\bin\Debug\net6.0\Matching.exe
+C:\Users\user\Desktop\פרוייקט\MatchingProj\Matching\bin\Debug\net6.0\Matching.deps.json
+C:\Users\user\Desktop\פרוייקט\MatchingProj\Matching\bin\Debug\net6.0\Matching.runtimeconfig.json
+C:\Users\user\Desktop\פרוייקט\MatchingProj\Matching\bin\Debug\net6.0\Matching.dll
+C:\Users\user\Desktop\פרוייקט\MatchingProj\Matching\bin\Debug\net6.0\Matching.pdb
+C:\Users\user\Desktop\פרוייקט\MatchingProj\Matching\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\user\Desktop\פרוייקט\MatchingProj\Matching\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\user\Desktop\פרוייקט\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user\Desktop\פרוייקט\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\פרוייקט\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\Desktop\פרוייקט\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\Desktop\פרוייקט\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\Desktop\פרוייקט\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user\Desktop\פרוייקט\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\user\Desktop\פרוייקט\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\user\Desktop\פרוייקט\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\user\Desktop\פרוייקט\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\Desktop\פרוייקט\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user\Desktop\פרוייקט\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\user\Desktop\פרוייקט\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\user\Desktop\פרוייקט\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\user\Desktop\פרוייקט\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\user\Desktop\פרוייקט\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\user\Desktop\פרוייקט\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\user\Desktop\פרוייקט\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\Desktop\פרוייקט\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\Desktop\פרוייקט\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\Desktop\פרוייקט\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\Desktop\פרוייקט\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\Desktop\פרוייקט\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Desktop\פרוייקט\MatchingProj\Matching\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Desktop\פרוייקט\MatchingProj\Matching\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\פרוייקט\MatchingProj\Matching\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\Desktop\פרוייקט\MatchingProj\Matching\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\user\Desktop\פרוייקט\MatchingProj\Matching\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\פרוייקט\MatchingProj\Matching\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\user\Desktop\פרוייקט\MatchingProj\Matching\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\user\Desktop\פרוייקט\MatchingProj\Matching\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\פרוייקט\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\פרוייקט\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\פרוייקט\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\פרוייקט\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\פרוייקט\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\פרוייקט\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Desktop\פרוייקט\MatchingProj\Matching\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\פרוייקט\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\פרוייקט\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\user\Desktop\פרוייקט\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\פרוייקט\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\user\Desktop\פרוייקט\MatchingProj\Matching\bin\Debug\net6.0\AppServices.dll
+C:\Users\user\Desktop\פרוייקט\MatchingProj\Matching\bin\Debug\net6.0\Common.dll
+C:\Users\user\Desktop\פרוייקט\MatchingProj\Matching\bin\Debug\net6.0\Repositories.dll
+C:\Users\user\Desktop\פרוייקט\MatchingProj\Matching\bin\Debug\net6.0\AppServices.pdb
+C:\Users\user\Desktop\פרוייקט\MatchingProj\Matching\bin\Debug\net6.0\Common.pdb
+C:\Users\user\Desktop\פרוייקט\MatchingProj\Matching\bin\Debug\net6.0\Repositories.pdb
+C:\Users\user\Desktop\פרוייקט\MatchingProj\Matching\obj\Debug\net6.0\Matching.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\פרוייקט\MatchingProj\Matching\obj\Debug\net6.0\Matching.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\פרוייקט\MatchingProj\Matching\obj\Debug\net6.0\Matching.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\פרוייקט\MatchingProj\Matching\obj\Debug\net6.0\Matching.AssemblyInfo.cs
+C:\Users\user\Desktop\פרוייקט\MatchingProj\Matching\obj\Debug\net6.0\Matching.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\פרוייקט\MatchingProj\Matching\obj\Debug\net6.0\Matching.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\פרוייקט\MatchingProj\Matching\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\user\Desktop\פרוייקט\MatchingProj\Matching\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\user\Desktop\פרוייקט\MatchingProj\Matching\obj\Debug\net6.0\scopedcss\bundle\Matching.styles.css
+C:\Users\user\Desktop\פרוייקט\MatchingProj\Matching\obj\Debug\net6.0\Matching.csproj.CopyComplete
+C:\Users\user\Desktop\פרוייקט\MatchingProj\Matching\obj\Debug\net6.0\Matching.dll
+C:\Users\user\Desktop\פרוייקט\MatchingProj\Matching\obj\Debug\net6.0\refint\Matching.dll
+C:\Users\user\Desktop\פרוייקט\MatchingProj\Matching\obj\Debug\net6.0\Matching.pdb
+C:\Users\user\Desktop\פרוייקט\MatchingProj\Matching\obj\Debug\net6.0\Matching.genruntimeconfig.cache
+C:\Users\user\Desktop\פרוייקט\MatchingProj\Matching\obj\Debug\net6.0\ref\Matching.dll
+C:\Users\משתמש זה\Desktop\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\Matching.dll
+C:\Users\משתמש זה\Desktop\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\ref\Matching.dll
+C:\Users\משתמש זה\Desktop\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\Matching.pdb
+C:\Users\user\Desktop\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\user\Desktop\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\appsettings.json
+C:\Users\user\Desktop\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Matching.exe
+C:\Users\user\Desktop\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Matching.deps.json
+C:\Users\user\Desktop\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Matching.runtimeconfig.json
+C:\Users\user\Desktop\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Matching.dll
+C:\Users\user\Desktop\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Matching.pdb
+C:\Users\user\Desktop\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\user\Desktop\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\user\Desktop\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user\Desktop\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\Desktop\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\Desktop\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\Desktop\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user\Desktop\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\user\Desktop\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\user\Desktop\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\user\Desktop\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\Desktop\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user\Desktop\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\user\Desktop\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\user\Desktop\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\user\Desktop\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\user\Desktop\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\user\Desktop\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\user\Desktop\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\Desktop\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\Desktop\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\Desktop\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\Desktop\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\Desktop\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Desktop\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Desktop\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\Desktop\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\user\Desktop\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\user\Desktop\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\user\Desktop\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Desktop\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\user\Desktop\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\user\Desktop\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\AppServices.dll
+C:\Users\user\Desktop\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Common.dll
+C:\Users\user\Desktop\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Repositories.dll
+C:\Users\user\Desktop\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\AppServices.pdb
+C:\Users\user\Desktop\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Common.pdb
+C:\Users\user\Desktop\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Repositories.pdb
+C:\Users\user\Desktop\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\Matching.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\Matching.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\Matching.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\Matching.AssemblyInfo.cs
+C:\Users\user\Desktop\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\Matching.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\Matching.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\user\Desktop\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\user\Desktop\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\scopedcss\bundle\Matching.styles.css
+C:\Users\user\Desktop\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\Matching.csproj.CopyComplete
+C:\Users\user\Desktop\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\Matching.dll
+C:\Users\user\Desktop\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\refint\Matching.dll
+C:\Users\user\Desktop\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\Matching.pdb
+C:\Users\user\Desktop\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\Matching.genruntimeconfig.cache
+C:\Users\user\Desktop\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\ref\Matching.dll
+C:\Users\user\Music\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\user\Music\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\appsettings.json
+C:\Users\user\Music\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Matching.exe
+C:\Users\user\Music\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Matching.deps.json
+C:\Users\user\Music\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Matching.runtimeconfig.json
+C:\Users\user\Music\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Matching.dll
+C:\Users\user\Music\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Matching.pdb
+C:\Users\user\Music\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\user\Music\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\user\Music\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\user\Music\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\user\Music\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user\Music\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\Music\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\Music\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\Music\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\Music\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user\Music\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\user\Music\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\user\Music\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\user\Music\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\Music\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user\Music\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\user\Music\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\user\Music\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\user\Music\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\user\Music\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\user\Music\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\user\Music\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\Music\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\Music\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\Music\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\Music\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\Music\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Music\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Music\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\user\Music\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\Music\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\user\Music\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Music\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\user\Music\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\user\Music\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Music\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Music\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Music\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Music\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Music\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Music\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Music\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\user\Music\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\user\Music\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\user\Music\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Music\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\user\Music\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\AppServices.dll
+C:\Users\user\Music\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Common.dll
+C:\Users\user\Music\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Repositories.dll
+C:\Users\user\Music\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\AppServices.pdb
+C:\Users\user\Music\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Common.pdb
+C:\Users\user\Music\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Repositories.pdb
+C:\Users\user\Music\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\Matching.csproj.AssemblyReference.cache
+C:\Users\user\Music\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\Matching.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Music\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\Matching.AssemblyInfoInputs.cache
+C:\Users\user\Music\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\Matching.AssemblyInfo.cs
+C:\Users\user\Music\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\Matching.csproj.CoreCompileInputs.cache
+C:\Users\user\Music\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\Matching.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Music\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\user\Music\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\user\Music\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\scopedcss\bundle\Matching.styles.css
+C:\Users\user\Music\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\Matching.csproj.CopyComplete
+C:\Users\user\Music\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\Matching.dll
+C:\Users\user\Music\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\refint\Matching.dll
+C:\Users\user\Music\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\Matching.pdb
+C:\Users\user\Music\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\Matching.genruntimeconfig.cache
+C:\Users\user\Music\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\ref\Matching.dll
+C:\Users\user\3D Objects\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\user\3D Objects\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\appsettings.json
+C:\Users\user\3D Objects\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Matching.exe
+C:\Users\user\3D Objects\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Matching.deps.json
+C:\Users\user\3D Objects\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Matching.runtimeconfig.json
+C:\Users\user\3D Objects\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Matching.dll
+C:\Users\user\3D Objects\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Matching.pdb
+C:\Users\user\3D Objects\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\user\3D Objects\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\user\3D Objects\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\user\3D Objects\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\user\3D Objects\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user\3D Objects\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\3D Objects\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\3D Objects\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\3D Objects\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\3D Objects\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user\3D Objects\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\user\3D Objects\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\user\3D Objects\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\user\3D Objects\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\3D Objects\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user\3D Objects\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\user\3D Objects\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\user\3D Objects\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\user\3D Objects\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\user\3D Objects\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\user\3D Objects\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\user\3D Objects\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\3D Objects\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\3D Objects\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\3D Objects\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\3D Objects\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\3D Objects\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\3D Objects\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\user\3D Objects\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\user\3D Objects\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\3D Objects\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\user\3D Objects\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\3D Objects\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\user\3D Objects\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\user\3D Objects\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\3D Objects\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\3D Objects\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\3D Objects\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\3D Objects\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\3D Objects\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\3D Objects\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\3D Objects\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\user\3D Objects\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\user\3D Objects\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\user\3D Objects\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\3D Objects\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\user\3D Objects\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\AppServices.dll
+C:\Users\user\3D Objects\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Common.dll
+C:\Users\user\3D Objects\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Repositories.dll
+C:\Users\user\3D Objects\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\AppServices.pdb
+C:\Users\user\3D Objects\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Common.pdb
+C:\Users\user\3D Objects\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Repositories.pdb
+C:\Users\user\3D Objects\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\Matching.csproj.AssemblyReference.cache
+C:\Users\user\3D Objects\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\Matching.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\3D Objects\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\Matching.AssemblyInfoInputs.cache
+C:\Users\user\3D Objects\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\Matching.AssemblyInfo.cs
+C:\Users\user\3D Objects\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\Matching.csproj.CoreCompileInputs.cache
+C:\Users\user\3D Objects\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\Matching.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\3D Objects\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\user\3D Objects\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\user\3D Objects\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\scopedcss\bundle\Matching.styles.css
+C:\Users\user\3D Objects\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\Matching.csproj.CopyComplete
+C:\Users\user\3D Objects\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\Matching.dll
+C:\Users\user\3D Objects\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\refint\Matching.dll
+C:\Users\user\3D Objects\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\Matching.pdb
+C:\Users\user\3D Objects\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\Matching.genruntimeconfig.cache
+C:\Users\user\3D Objects\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\ref\Matching.dll
+C:\Users\user\3D Objects\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\user\3D Objects\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\appsettings.json
+C:\Users\user\3D Objects\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Matching.exe
+C:\Users\user\3D Objects\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Matching.deps.json
+C:\Users\user\3D Objects\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Matching.runtimeconfig.json
+C:\Users\user\3D Objects\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Matching.dll
+C:\Users\user\3D Objects\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Matching.pdb
+C:\Users\user\3D Objects\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\user\3D Objects\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\user\3D Objects\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\user\3D Objects\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\user\3D Objects\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user\3D Objects\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\3D Objects\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\3D Objects\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\3D Objects\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\3D Objects\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user\3D Objects\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\user\3D Objects\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\user\3D Objects\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\user\3D Objects\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\3D Objects\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user\3D Objects\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\user\3D Objects\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\user\3D Objects\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\user\3D Objects\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\user\3D Objects\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\user\3D Objects\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\user\3D Objects\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\3D Objects\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\3D Objects\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\3D Objects\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\3D Objects\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\3D Objects\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\3D Objects\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\user\3D Objects\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\user\3D Objects\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\3D Objects\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\user\3D Objects\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\3D Objects\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\user\3D Objects\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\user\3D Objects\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\3D Objects\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\3D Objects\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\3D Objects\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\3D Objects\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\3D Objects\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\3D Objects\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\3D Objects\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\user\3D Objects\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\user\3D Objects\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\user\3D Objects\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\3D Objects\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\user\3D Objects\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\AppServices.dll
+C:\Users\user\3D Objects\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Common.dll
+C:\Users\user\3D Objects\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Repositories.dll
+C:\Users\user\3D Objects\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\AppServices.pdb
+C:\Users\user\3D Objects\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Common.pdb
+C:\Users\user\3D Objects\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Repositories.pdb
+C:\Users\user\3D Objects\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\Matching.csproj.AssemblyReference.cache
+C:\Users\user\3D Objects\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\Matching.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\3D Objects\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\Matching.AssemblyInfoInputs.cache
+C:\Users\user\3D Objects\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\Matching.AssemblyInfo.cs
+C:\Users\user\3D Objects\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\Matching.csproj.CoreCompileInputs.cache
+C:\Users\user\3D Objects\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\Matching.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\3D Objects\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\user\3D Objects\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\user\3D Objects\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\scopedcss\bundle\Matching.styles.css
+C:\Users\user\3D Objects\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\Matching.csproj.CopyComplete
+C:\Users\user\3D Objects\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\Matching.dll
+C:\Users\user\3D Objects\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\refint\Matching.dll
+C:\Users\user\3D Objects\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\Matching.pdb
+C:\Users\user\3D Objects\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\Matching.genruntimeconfig.cache
+C:\Users\user\3D Objects\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\ref\Matching.dll
+C:\Users\HP\Downloads\גיבוי_2_לפני_הוספת_טבלה (1)\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\HP\Downloads\גיבוי_2_לפני_הוספת_טבלה (1)\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\appsettings.json
+C:\Users\HP\Downloads\גיבוי_2_לפני_הוספת_טבלה (1)\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Matching.exe
+C:\Users\HP\Downloads\גיבוי_2_לפני_הוספת_טבלה (1)\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Matching.deps.json
+C:\Users\HP\Downloads\גיבוי_2_לפני_הוספת_טבלה (1)\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Matching.runtimeconfig.json
+C:\Users\HP\Downloads\גיבוי_2_לפני_הוספת_טבלה (1)\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Matching.dll
+C:\Users\HP\Downloads\גיבוי_2_לפני_הוספת_טבלה (1)\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Matching.pdb
+C:\Users\HP\Downloads\גיבוי_2_לפני_הוספת_טבלה (1)\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\HP\Downloads\גיבוי_2_לפני_הוספת_טבלה (1)\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\HP\Downloads\גיבוי_2_לפני_הוספת_טבלה (1)\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\HP\Downloads\גיבוי_2_לפני_הוספת_טבלה (1)\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\HP\Downloads\גיבוי_2_לפני_הוספת_טבלה (1)\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HP\Downloads\גיבוי_2_לפני_הוספת_טבלה (1)\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Downloads\גיבוי_2_לפני_הוספת_טבלה (1)\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\HP\Downloads\גיבוי_2_לפני_הוספת_טבלה (1)\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HP\Downloads\גיבוי_2_לפני_הוספת_טבלה (1)\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HP\Downloads\גיבוי_2_לפני_הוספת_טבלה (1)\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\HP\Downloads\גיבוי_2_לפני_הוספת_טבלה (1)\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\HP\Downloads\גיבוי_2_לפני_הוספת_טבלה (1)\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\HP\Downloads\גיבוי_2_לפני_הוספת_טבלה (1)\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\HP\Downloads\גיבוי_2_לפני_הוספת_טבלה (1)\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\HP\Downloads\גיבוי_2_לפני_הוספת_טבלה (1)\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\HP\Downloads\גיבוי_2_לפני_הוספת_טבלה (1)\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\HP\Downloads\גיבוי_2_לפני_הוספת_טבלה (1)\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\HP\Downloads\גיבוי_2_לפני_הוספת_טבלה (1)\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\HP\Downloads\גיבוי_2_לפני_הוספת_טבלה (1)\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\HP\Downloads\גיבוי_2_לפני_הוספת_טבלה (1)\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\HP\Downloads\גיבוי_2_לפני_הוספת_טבלה (1)\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\HP\Downloads\גיבוי_2_לפני_הוספת_טבלה (1)\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\HP\Downloads\גיבוי_2_לפני_הוספת_טבלה (1)\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\HP\Downloads\גיבוי_2_לפני_הוספת_טבלה (1)\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\HP\Downloads\גיבוי_2_לפני_הוספת_טבלה (1)\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\HP\Downloads\גיבוי_2_לפני_הוספת_טבלה (1)\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\HP\Downloads\גיבוי_2_לפני_הוספת_טבלה (1)\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\HP\Downloads\גיבוי_2_לפני_הוספת_טבלה (1)\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\HP\Downloads\גיבוי_2_לפני_הוספת_טבלה (1)\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\HP\Downloads\גיבוי_2_לפני_הוספת_טבלה (1)\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\HP\Downloads\גיבוי_2_לפני_הוספת_טבלה (1)\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\HP\Downloads\גיבוי_2_לפני_הוספת_טבלה (1)\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP\Downloads\גיבוי_2_לפני_הוספת_טבלה (1)\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\HP\Downloads\גיבוי_2_לפני_הוספת_טבלה (1)\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\HP\Downloads\גיבוי_2_לפני_הוספת_טבלה (1)\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Downloads\גיבוי_2_לפני_הוספת_טבלה (1)\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Downloads\גיבוי_2_לפני_הוספת_טבלה (1)\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Downloads\גיבוי_2_לפני_הוספת_טבלה (1)\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Downloads\גיבוי_2_לפני_הוספת_טבלה (1)\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Downloads\גיבוי_2_לפני_הוספת_טבלה (1)\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Downloads\גיבוי_2_לפני_הוספת_טבלה (1)\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\HP\Downloads\גיבוי_2_לפני_הוספת_טבלה (1)\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\HP\Downloads\גיבוי_2_לפני_הוספת_טבלה (1)\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\HP\Downloads\גיבוי_2_לפני_הוספת_טבלה (1)\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\HP\Downloads\גיבוי_2_לפני_הוספת_טבלה (1)\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP\Downloads\גיבוי_2_לפני_הוספת_טבלה (1)\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\HP\Downloads\גיבוי_2_לפני_הוספת_טבלה (1)\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\AppServices.dll
+C:\Users\HP\Downloads\גיבוי_2_לפני_הוספת_טבלה (1)\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Common.dll
+C:\Users\HP\Downloads\גיבוי_2_לפני_הוספת_טבלה (1)\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Repositories.dll
+C:\Users\HP\Downloads\גיבוי_2_לפני_הוספת_טבלה (1)\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\AppServices.pdb
+C:\Users\HP\Downloads\גיבוי_2_לפני_הוספת_טבלה (1)\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Common.pdb
+C:\Users\HP\Downloads\גיבוי_2_לפני_הוספת_טבלה (1)\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Repositories.pdb
+C:\Users\HP\Downloads\גיבוי_2_לפני_הוספת_טבלה (1)\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\Matching.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\גיבוי_2_לפני_הוספת_טבלה (1)\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\Matching.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\גיבוי_2_לפני_הוספת_טבלה (1)\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\Matching.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\גיבוי_2_לפני_הוספת_טבלה (1)\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\Matching.AssemblyInfo.cs
+C:\Users\HP\Downloads\גיבוי_2_לפני_הוספת_טבלה (1)\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\Matching.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\גיבוי_2_לפני_הוספת_טבלה (1)\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\Matching.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\Downloads\גיבוי_2_לפני_הוספת_טבלה (1)\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\HP\Downloads\גיבוי_2_לפני_הוספת_טבלה (1)\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\HP\Downloads\גיבוי_2_לפני_הוספת_טבלה (1)\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\scopedcss\bundle\Matching.styles.css
+C:\Users\HP\Downloads\גיבוי_2_לפני_הוספת_טבלה (1)\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\Matching.csproj.CopyComplete
+C:\Users\HP\Downloads\גיבוי_2_לפני_הוספת_טבלה (1)\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\Matching.dll
+C:\Users\HP\Downloads\גיבוי_2_לפני_הוספת_טבלה (1)\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\refint\Matching.dll
+C:\Users\HP\Downloads\גיבוי_2_לפני_הוספת_טבלה (1)\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\Matching.pdb
+C:\Users\HP\Downloads\גיבוי_2_לפני_הוספת_טבלה (1)\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\Matching.genruntimeconfig.cache
+C:\Users\HP\Downloads\גיבוי_2_לפני_הוספת_טבלה (1)\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\ref\Matching.dll
+C:\Users\user\Downloads\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\user\Downloads\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\appsettings.json
+C:\Users\user\Downloads\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Matching.exe
+C:\Users\user\Downloads\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Matching.deps.json
+C:\Users\user\Downloads\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Matching.runtimeconfig.json
+C:\Users\user\Downloads\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Matching.dll
+C:\Users\user\Downloads\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Matching.pdb
+C:\Users\user\Downloads\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\user\Downloads\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\user\Downloads\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\user\Downloads\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\user\Downloads\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user\Downloads\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\Downloads\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\Downloads\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\Downloads\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\Downloads\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user\Downloads\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\user\Downloads\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\user\Downloads\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\user\Downloads\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\Downloads\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user\Downloads\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\user\Downloads\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\user\Downloads\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\user\Downloads\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\user\Downloads\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\user\Downloads\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\user\Downloads\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\Downloads\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\Downloads\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\Downloads\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\Downloads\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\Downloads\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Downloads\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Downloads\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\user\Downloads\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\Downloads\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\user\Downloads\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Downloads\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\user\Downloads\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\user\Downloads\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Downloads\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Downloads\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Downloads\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Downloads\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Downloads\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Downloads\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Downloads\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\user\Downloads\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\user\Downloads\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\user\Downloads\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Downloads\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\user\Downloads\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\AppServices.dll
+C:\Users\user\Downloads\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Common.dll
+C:\Users\user\Downloads\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Repositories.dll
+C:\Users\user\Downloads\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\AppServices.pdb
+C:\Users\user\Downloads\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Common.pdb
+C:\Users\user\Downloads\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Repositories.pdb
+C:\Users\user\Downloads\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\Matching.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\Matching.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Downloads\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\Matching.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\Matching.AssemblyInfo.cs
+C:\Users\user\Downloads\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\Matching.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\Matching.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Downloads\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\user\Downloads\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\user\Downloads\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\scopedcss\bundle\Matching.styles.css
+C:\Users\user\Downloads\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\Matching.csproj.CopyComplete
+C:\Users\user\Downloads\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\Matching.dll
+C:\Users\user\Downloads\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\refint\Matching.dll
+C:\Users\user\Downloads\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\Matching.pdb
+C:\Users\user\Downloads\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\Matching.genruntimeconfig.cache
+C:\Users\user\Downloads\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\ref\Matching.dll
+C:\Users\user\Documents\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\user\Documents\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\appsettings.json
+C:\Users\user\Documents\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Matching.exe
+C:\Users\user\Documents\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Matching.deps.json
+C:\Users\user\Documents\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Matching.runtimeconfig.json
+C:\Users\user\Documents\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Matching.dll
+C:\Users\user\Documents\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Matching.pdb
+C:\Users\user\Documents\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\user\Documents\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\user\Documents\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\user\Documents\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\user\Documents\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user\Documents\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\Documents\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\Documents\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\Documents\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\Documents\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user\Documents\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\user\Documents\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\user\Documents\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\user\Documents\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\Documents\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user\Documents\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\user\Documents\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\user\Documents\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\user\Documents\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\user\Documents\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\user\Documents\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\user\Documents\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\Documents\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\Documents\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\Documents\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\Documents\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\Documents\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Documents\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Documents\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\user\Documents\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\Documents\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\user\Documents\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Documents\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\user\Documents\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\user\Documents\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Documents\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Documents\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Documents\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Documents\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Documents\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Documents\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Documents\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\user\Documents\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\user\Documents\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\user\Documents\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Documents\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\user\Documents\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\AppServices.dll
+C:\Users\user\Documents\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Common.dll
+C:\Users\user\Documents\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Repositories.dll
+C:\Users\user\Documents\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\AppServices.pdb
+C:\Users\user\Documents\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Common.pdb
+C:\Users\user\Documents\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Repositories.pdb
+C:\Users\user\Documents\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\Matching.csproj.AssemblyReference.cache
+C:\Users\user\Documents\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\Matching.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\Matching.AssemblyInfoInputs.cache
+C:\Users\user\Documents\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\Matching.AssemblyInfo.cs
+C:\Users\user\Documents\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\Matching.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\Matching.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Documents\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\user\Documents\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\user\Documents\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\scopedcss\bundle\Matching.styles.css
+C:\Users\user\Documents\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\Matching.csproj.CopyComplete
+C:\Users\user\Documents\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\Matching.dll
+C:\Users\user\Documents\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\refint\Matching.dll
+C:\Users\user\Documents\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\Matching.pdb
+C:\Users\user\Documents\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\Matching.genruntimeconfig.cache
+C:\Users\user\Documents\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\ref\Matching.dll
+C:\Users\משתמש זה\Desktop\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\משתמש זה\Desktop\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\appsettings.json
+C:\Users\משתמש זה\Desktop\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Matching.exe
+C:\Users\משתמש זה\Desktop\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Matching.deps.json
+C:\Users\משתמש זה\Desktop\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Matching.runtimeconfig.json
+C:\Users\משתמש זה\Desktop\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Matching.dll
+C:\Users\משתמש זה\Desktop\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\ref\Matching.dll
+C:\Users\משתמש זה\Desktop\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Matching.pdb
+C:\Users\משתמש זה\Desktop\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\משתמש זה\Desktop\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\משתמש זה\Desktop\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\משתמש זה\Desktop\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\משתמש זה\Desktop\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\משתמש זה\Desktop\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\משתמש זה\Desktop\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\משתמש זה\Desktop\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\משתמש זה\Desktop\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\משתמש זה\Desktop\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\משתמש זה\Desktop\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\משתמש זה\Desktop\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\משתמש זה\Desktop\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\משתמש זה\Desktop\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\משתמש זה\Desktop\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\משתמש זה\Desktop\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\משתמש זה\Desktop\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\משתמש זה\Desktop\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\משתמש זה\Desktop\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\משתמש זה\Desktop\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\משתמש זה\Desktop\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\משתמש זה\Desktop\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\משתמש זה\Desktop\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\משתמש זה\Desktop\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\משתמש זה\Desktop\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\משתמש זה\Desktop\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\משתמש זה\Desktop\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\משתמש זה\Desktop\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\משתמש זה\Desktop\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\משתמש זה\Desktop\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\משתמש זה\Desktop\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\משתמש זה\Desktop\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\משתמש זה\Desktop\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\משתמש זה\Desktop\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\AppServices.dll
+C:\Users\משתמש זה\Desktop\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Common.dll
+C:\Users\משתמש זה\Desktop\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Repositories.dll
+C:\Users\משתמש זה\Desktop\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\AppServices.pdb
+C:\Users\משתמש זה\Desktop\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Common.pdb
+C:\Users\משתמש זה\Desktop\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Repositories.pdb
+C:\Users\משתמש זה\Desktop\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\Matching.csproj.AssemblyReference.cache
+C:\Users\משתמש זה\Desktop\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\Matching.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\משתמש זה\Desktop\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\Matching.AssemblyInfoInputs.cache
+C:\Users\משתמש זה\Desktop\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\Matching.AssemblyInfo.cs
+C:\Users\משתמש זה\Desktop\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\Matching.csproj.CoreCompileInputs.cache
+C:\Users\משתמש זה\Desktop\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\Matching.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\משתמש זה\Desktop\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\משתמש זה\Desktop\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\משתמש זה\Desktop\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\scopedcss\bundle\Matching.styles.css
+C:\Users\משתמש זה\Desktop\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\Matching.csproj.CopyComplete
+C:\Users\משתמש זה\Desktop\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\Matching.dll
+C:\Users\משתמש זה\Desktop\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\ref\Matching.dll
+C:\Users\משתמש זה\Desktop\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\Matching.pdb
+C:\Users\משתמש זה\Desktop\גיבוי 2 לפני הוספת טבלה\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\Matching.genruntimeconfig.cache
+C:\Users\משתמש זה\Desktop\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\משתמש זה\Desktop\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\appsettings.json
+C:\Users\משתמש זה\Desktop\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Matching.exe
+C:\Users\משתמש זה\Desktop\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Matching.deps.json
+C:\Users\משתמש זה\Desktop\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Matching.runtimeconfig.json
+C:\Users\משתמש זה\Desktop\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Matching.dll
+C:\Users\משתמש זה\Desktop\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\ref\Matching.dll
+C:\Users\משתמש זה\Desktop\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Matching.pdb
+C:\Users\משתמש זה\Desktop\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\משתמש זה\Desktop\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\משתמש זה\Desktop\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\משתמש זה\Desktop\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\משתמש זה\Desktop\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\משתמש זה\Desktop\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\משתמש זה\Desktop\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\משתמש זה\Desktop\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\משתמש זה\Desktop\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\משתמש זה\Desktop\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\משתמש זה\Desktop\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\משתמש זה\Desktop\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\משתמש זה\Desktop\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\משתמש זה\Desktop\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\משתמש זה\Desktop\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\משתמש זה\Desktop\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\משתמש זה\Desktop\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\משתמש זה\Desktop\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\משתמש זה\Desktop\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\משתמש זה\Desktop\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\משתמש זה\Desktop\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\משתמש זה\Desktop\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\משתמש זה\Desktop\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\משתמש זה\Desktop\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\משתמש זה\Desktop\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\משתמש זה\Desktop\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\משתמש זה\Desktop\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\משתמש זה\Desktop\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\משתמש זה\Desktop\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\משתמש זה\Desktop\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\משתמש זה\Desktop\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\משתמש זה\Desktop\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\משתמש זה\Desktop\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\משתמש זה\Desktop\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\AppServices.dll
+C:\Users\משתמש זה\Desktop\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Common.dll
+C:\Users\משתמש זה\Desktop\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Repositories.dll
+C:\Users\משתמש זה\Desktop\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\AppServices.pdb
+C:\Users\משתמש זה\Desktop\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Common.pdb
+C:\Users\משתמש זה\Desktop\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Repositories.pdb
+C:\Users\משתמש זה\Desktop\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\Matching.csproj.AssemblyReference.cache
+C:\Users\משתמש זה\Desktop\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\Matching.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\משתמש זה\Desktop\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\Matching.AssemblyInfoInputs.cache
+C:\Users\משתמש זה\Desktop\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\Matching.AssemblyInfo.cs
+C:\Users\משתמש זה\Desktop\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\Matching.csproj.CoreCompileInputs.cache
+C:\Users\משתמש זה\Desktop\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\Matching.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\משתמש זה\Desktop\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\משתמש זה\Desktop\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\משתמש זה\Desktop\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\scopedcss\bundle\Matching.styles.css
+C:\Users\משתמש זה\Desktop\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\Matching.csproj.CopyComplete
+C:\Users\משתמש זה\Desktop\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\Matching.genruntimeconfig.cache
+C:\Users\user\Desktop\פרוייקט\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\user\Desktop\פרוייקט\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\appsettings.json
+C:\Users\user\Desktop\פרוייקט\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Matching.exe
+C:\Users\user\Desktop\פרוייקט\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Matching.deps.json
+C:\Users\user\Desktop\פרוייקט\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Matching.runtimeconfig.json
+C:\Users\user\Desktop\פרוייקט\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Matching.dll
+C:\Users\user\Desktop\פרוייקט\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Matching.pdb
+C:\Users\user\Desktop\פרוייקט\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\user\Desktop\פרוייקט\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\user\Desktop\פרוייקט\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\פרוייקט\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\Desktop\פרוייקט\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\Desktop\פרוייקט\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\Desktop\פרוייקט\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user\Desktop\פרוייקט\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\user\Desktop\פרוייקט\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\Desktop\פרוייקט\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\Desktop\פרוייקט\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\Desktop\פרוייקט\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\Desktop\פרוייקט\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\Desktop\פרוייקט\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Desktop\פרוייקט\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Desktop\פרוייקט\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\פרוייקט\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\Desktop\פרוייקט\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\user\Desktop\פרוייקט\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\פרוייקט\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\user\Desktop\פרוייקט\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\user\Desktop\פרוייקט\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\פרוייקט\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\פרוייקט\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\פרוייקט\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\פרוייקט\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\פרוייקט\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\פרוייקט\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Desktop\פרוייקט\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\פרוייקט\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\פרוייקט\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\user\Desktop\פרוייקט\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\פרוייקט\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\user\Desktop\פרוייקט\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\AppServices.dll
+C:\Users\user\Desktop\פרוייקט\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Common.dll
+C:\Users\user\Desktop\פרוייקט\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Repositories.dll
+C:\Users\user\Desktop\פרוייקט\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\AppServices.pdb
+C:\Users\user\Desktop\פרוייקט\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Common.pdb
+C:\Users\user\Desktop\פרוייקט\פרוייקט API\MatchingProj\Matching\bin\Debug\net6.0\Repositories.pdb
+C:\Users\user\Desktop\פרוייקט\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\Matching.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\פרוייקט\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\Matching.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\פרוייקט\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\Matching.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\פרוייקט\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\Matching.AssemblyInfo.cs
+C:\Users\user\Desktop\פרוייקט\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\Matching.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\פרוייקט\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\Matching.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\פרוייקט\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\user\Desktop\פרוייקט\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\user\Desktop\פרוייקט\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\scopedcss\bundle\Matching.styles.css
+C:\Users\user\Desktop\פרוייקט\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\Matching.csproj.CopyComplete
+C:\Users\user\Desktop\פרוייקט\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\Matching.dll
+C:\Users\user\Desktop\פרוייקט\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\refint\Matching.dll
+C:\Users\user\Desktop\פרוייקט\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\Matching.pdb
+C:\Users\user\Desktop\פרוייקט\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\Matching.genruntimeconfig.cache
+C:\Users\user\Desktop\פרוייקט\פרוייקט API\MatchingProj\Matching\obj\Debug\net6.0\ref\Matching.dll
+C:\Users\user\Documents\APIProj\MatchingProj\Matching\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\user\Documents\APIProj\MatchingProj\Matching\bin\Debug\net6.0\appsettings.json
+C:\Users\user\Documents\APIProj\MatchingProj\Matching\bin\Debug\net6.0\Matching.exe
+C:\Users\user\Documents\APIProj\MatchingProj\Matching\bin\Debug\net6.0\Matching.deps.json
+C:\Users\user\Documents\APIProj\MatchingProj\Matching\bin\Debug\net6.0\Matching.runtimeconfig.json
+C:\Users\user\Documents\APIProj\MatchingProj\Matching\bin\Debug\net6.0\Matching.dll
+C:\Users\user\Documents\APIProj\MatchingProj\Matching\bin\Debug\net6.0\Matching.pdb
+C:\Users\user\Documents\APIProj\MatchingProj\Matching\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\user\Documents\APIProj\MatchingProj\Matching\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\user\Documents\APIProj\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\Documents\APIProj\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\Documents\APIProj\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\Documents\APIProj\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\Documents\APIProj\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user\Documents\APIProj\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\user\Documents\APIProj\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\Documents\APIProj\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\Documents\APIProj\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\Documents\APIProj\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\Documents\APIProj\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\Documents\APIProj\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Documents\APIProj\MatchingProj\Matching\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Documents\APIProj\MatchingProj\Matching\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\user\Documents\APIProj\MatchingProj\Matching\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\Documents\APIProj\MatchingProj\Matching\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\user\Documents\APIProj\MatchingProj\Matching\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Documents\APIProj\MatchingProj\Matching\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\user\Documents\APIProj\MatchingProj\Matching\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\user\Documents\APIProj\MatchingProj\Matching\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Documents\APIProj\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Documents\APIProj\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Documents\APIProj\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Documents\APIProj\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Documents\APIProj\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Documents\APIProj\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Documents\APIProj\MatchingProj\Matching\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\user\Documents\APIProj\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\user\Documents\APIProj\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\user\Documents\APIProj\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Documents\APIProj\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\user\Documents\APIProj\MatchingProj\Matching\bin\Debug\net6.0\AppServices.dll
+C:\Users\user\Documents\APIProj\MatchingProj\Matching\bin\Debug\net6.0\Common.dll
+C:\Users\user\Documents\APIProj\MatchingProj\Matching\bin\Debug\net6.0\Repositories.dll
+C:\Users\user\Documents\APIProj\MatchingProj\Matching\bin\Debug\net6.0\AppServices.pdb
+C:\Users\user\Documents\APIProj\MatchingProj\Matching\bin\Debug\net6.0\Common.pdb
+C:\Users\user\Documents\APIProj\MatchingProj\Matching\bin\Debug\net6.0\Repositories.pdb
+C:\Users\user\Documents\APIProj\MatchingProj\Matching\obj\Debug\net6.0\Matching.csproj.AssemblyReference.cache
+C:\Users\user\Documents\APIProj\MatchingProj\Matching\obj\Debug\net6.0\Matching.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\APIProj\MatchingProj\Matching\obj\Debug\net6.0\Matching.AssemblyInfoInputs.cache
+C:\Users\user\Documents\APIProj\MatchingProj\Matching\obj\Debug\net6.0\Matching.AssemblyInfo.cs
+C:\Users\user\Documents\APIProj\MatchingProj\Matching\obj\Debug\net6.0\Matching.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\APIProj\MatchingProj\Matching\obj\Debug\net6.0\Matching.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Documents\APIProj\MatchingProj\Matching\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\user\Documents\APIProj\MatchingProj\Matching\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\user\Documents\APIProj\MatchingProj\Matching\obj\Debug\net6.0\scopedcss\bundle\Matching.styles.css
+C:\Users\user\Documents\APIProj\MatchingProj\Matching\obj\Debug\net6.0\Matching.csproj.CopyComplete
+C:\Users\user\Documents\APIProj\MatchingProj\Matching\obj\Debug\net6.0\Matching.dll
+C:\Users\user\Documents\APIProj\MatchingProj\Matching\obj\Debug\net6.0\refint\Matching.dll
+C:\Users\user\Documents\APIProj\MatchingProj\Matching\obj\Debug\net6.0\Matching.pdb
+C:\Users\user\Documents\APIProj\MatchingProj\Matching\obj\Debug\net6.0\Matching.genruntimeconfig.cache
+C:\Users\user\Documents\APIProj\MatchingProj\Matching\obj\Debug\net6.0\ref\Matching.dll
+C:\Users\משתמש זה\Desktop\APIProj\MatchingProj\Matching\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\משתמש זה\Desktop\APIProj\MatchingProj\Matching\bin\Debug\net6.0\appsettings.json
+C:\Users\משתמש זה\Desktop\APIProj\MatchingProj\Matching\bin\Debug\net6.0\Matching.exe
+C:\Users\משתמש זה\Desktop\APIProj\MatchingProj\Matching\bin\Debug\net6.0\Matching.deps.json
+C:\Users\משתמש זה\Desktop\APIProj\MatchingProj\Matching\bin\Debug\net6.0\Matching.runtimeconfig.json
+C:\Users\משתמש זה\Desktop\APIProj\MatchingProj\Matching\bin\Debug\net6.0\Matching.dll
+C:\Users\משתמש זה\Desktop\APIProj\MatchingProj\Matching\bin\Debug\net6.0\ref\Matching.dll
+C:\Users\משתמש זה\Desktop\APIProj\MatchingProj\Matching\bin\Debug\net6.0\Matching.pdb
+C:\Users\משתמש זה\Desktop\APIProj\MatchingProj\Matching\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\משתמש זה\Desktop\APIProj\MatchingProj\Matching\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\משתמש זה\Desktop\APIProj\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\משתמש זה\Desktop\APIProj\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\משתמש זה\Desktop\APIProj\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\משתמש זה\Desktop\APIProj\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\משתמש זה\Desktop\APIProj\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\משתמש זה\Desktop\APIProj\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\משתמש זה\Desktop\APIProj\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\משתמש זה\Desktop\APIProj\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\משתמש זה\Desktop\APIProj\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\משתמש זה\Desktop\APIProj\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\משתמש זה\Desktop\APIProj\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\משתמש זה\Desktop\APIProj\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\משתמש זה\Desktop\APIProj\MatchingProj\Matching\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\משתמש זה\Desktop\APIProj\MatchingProj\Matching\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\משתמש זה\Desktop\APIProj\MatchingProj\Matching\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\משתמש זה\Desktop\APIProj\MatchingProj\Matching\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\משתמש זה\Desktop\APIProj\MatchingProj\Matching\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\משתמש זה\Desktop\APIProj\MatchingProj\Matching\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\משתמש זה\Desktop\APIProj\MatchingProj\Matching\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\משתמש זה\Desktop\APIProj\MatchingProj\Matching\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\משתמש זה\Desktop\APIProj\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\משתמש זה\Desktop\APIProj\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\משתמש זה\Desktop\APIProj\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\משתמש זה\Desktop\APIProj\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\משתמש זה\Desktop\APIProj\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\משתמש זה\Desktop\APIProj\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\משתמש זה\Desktop\APIProj\MatchingProj\Matching\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\משתמש זה\Desktop\APIProj\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\משתמש זה\Desktop\APIProj\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\משתמש זה\Desktop\APIProj\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\משתמש זה\Desktop\APIProj\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\משתמש זה\Desktop\APIProj\MatchingProj\Matching\bin\Debug\net6.0\AppServices.dll
+C:\Users\משתמש זה\Desktop\APIProj\MatchingProj\Matching\bin\Debug\net6.0\Common.dll
+C:\Users\משתמש זה\Desktop\APIProj\MatchingProj\Matching\bin\Debug\net6.0\Repositories.dll
+C:\Users\משתמש זה\Desktop\APIProj\MatchingProj\Matching\bin\Debug\net6.0\AppServices.pdb
+C:\Users\משתמש זה\Desktop\APIProj\MatchingProj\Matching\bin\Debug\net6.0\Common.pdb
+C:\Users\משתמש זה\Desktop\APIProj\MatchingProj\Matching\bin\Debug\net6.0\Repositories.pdb
+C:\Users\משתמש זה\Desktop\APIProj\MatchingProj\Matching\obj\Debug\net6.0\Matching.csproj.AssemblyReference.cache
+C:\Users\משתמש זה\Desktop\APIProj\MatchingProj\Matching\obj\Debug\net6.0\Matching.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\משתמש זה\Desktop\APIProj\MatchingProj\Matching\obj\Debug\net6.0\Matching.AssemblyInfoInputs.cache
+C:\Users\משתמש זה\Desktop\APIProj\MatchingProj\Matching\obj\Debug\net6.0\Matching.AssemblyInfo.cs
+C:\Users\משתמש זה\Desktop\APIProj\MatchingProj\Matching\obj\Debug\net6.0\Matching.csproj.CoreCompileInputs.cache
+C:\Users\משתמש זה\Desktop\APIProj\MatchingProj\Matching\obj\Debug\net6.0\Matching.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\משתמש זה\Desktop\APIProj\MatchingProj\Matching\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\משתמש זה\Desktop\APIProj\MatchingProj\Matching\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\משתמש זה\Desktop\APIProj\MatchingProj\Matching\obj\Debug\net6.0\scopedcss\bundle\Matching.styles.css
+C:\Users\משתמש זה\Desktop\APIProj\MatchingProj\Matching\obj\Debug\net6.0\Matching.csproj.CopyComplete
+C:\Users\משתמש זה\Desktop\APIProj\MatchingProj\Matching\obj\Debug\net6.0\Matching.dll
+C:\Users\משתמש זה\Desktop\APIProj\MatchingProj\Matching\obj\Debug\net6.0\ref\Matching.dll
+C:\Users\משתמש זה\Desktop\APIProj\MatchingProj\Matching\obj\Debug\net6.0\Matching.pdb
+C:\Users\משתמש זה\Desktop\APIProj\MatchingProj\Matching\obj\Debug\net6.0\Matching.genruntimeconfig.cache
+C:\Users\user\Documents\פרוייקטים להגה\הפרוייקט הטוב\APIProj\MatchingProj\Matching\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\user\Documents\פרוייקטים להגה\הפרוייקט הטוב\APIProj\MatchingProj\Matching\bin\Debug\net6.0\appsettings.json
+C:\Users\user\Documents\פרוייקטים להגה\הפרוייקט הטוב\APIProj\MatchingProj\Matching\bin\Debug\net6.0\Matching.exe
+C:\Users\user\Documents\פרוייקטים להגה\הפרוייקט הטוב\APIProj\MatchingProj\Matching\bin\Debug\net6.0\Matching.deps.json
+C:\Users\user\Documents\פרוייקטים להגה\הפרוייקט הטוב\APIProj\MatchingProj\Matching\bin\Debug\net6.0\Matching.runtimeconfig.json
+C:\Users\user\Documents\פרוייקטים להגה\הפרוייקט הטוב\APIProj\MatchingProj\Matching\bin\Debug\net6.0\Matching.dll
+C:\Users\user\Documents\פרוייקטים להגה\הפרוייקט הטוב\APIProj\MatchingProj\Matching\bin\Debug\net6.0\Matching.pdb
+C:\Users\user\Documents\פרוייקטים להגה\הפרוייקט הטוב\APIProj\MatchingProj\Matching\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\user\Documents\פרוייקטים להגה\הפרוייקט הטוב\APIProj\MatchingProj\Matching\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\user\Documents\פרוייקטים להגה\הפרוייקט הטוב\APIProj\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\Documents\פרוייקטים להגה\הפרוייקט הטוב\APIProj\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\Documents\פרוייקטים להגה\הפרוייקט הטוב\APIProj\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\Documents\פרוייקטים להגה\הפרוייקט הטוב\APIProj\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\Documents\פרוייקטים להגה\הפרוייקט הטוב\APIProj\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user\Documents\פרוייקטים להגה\הפרוייקט הטוב\APIProj\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\user\Documents\פרוייקטים להגה\הפרוייקט הטוב\APIProj\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\Documents\פרוייקטים להגה\הפרוייקט הטוב\APIProj\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\Documents\פרוייקטים להגה\הפרוייקט הטוב\APIProj\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\Documents\פרוייקטים להגה\הפרוייקט הטוב\APIProj\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\Documents\פרוייקטים להגה\הפרוייקט הטוב\APIProj\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\Documents\פרוייקטים להגה\הפרוייקט הטוב\APIProj\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Documents\פרוייקטים להגה\הפרוייקט הטוב\APIProj\MatchingProj\Matching\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Documents\פרוייקטים להגה\הפרוייקט הטוב\APIProj\MatchingProj\Matching\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\user\Documents\פרוייקטים להגה\הפרוייקט הטוב\APIProj\MatchingProj\Matching\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\Documents\פרוייקטים להגה\הפרוייקט הטוב\APIProj\MatchingProj\Matching\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\user\Documents\פרוייקטים להגה\הפרוייקט הטוב\APIProj\MatchingProj\Matching\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Documents\פרוייקטים להגה\הפרוייקט הטוב\APIProj\MatchingProj\Matching\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\user\Documents\פרוייקטים להגה\הפרוייקט הטוב\APIProj\MatchingProj\Matching\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\user\Documents\פרוייקטים להגה\הפרוייקט הטוב\APIProj\MatchingProj\Matching\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Documents\פרוייקטים להגה\הפרוייקט הטוב\APIProj\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Documents\פרוייקטים להגה\הפרוייקט הטוב\APIProj\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Documents\פרוייקטים להגה\הפרוייקט הטוב\APIProj\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Documents\פרוייקטים להגה\הפרוייקט הטוב\APIProj\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Documents\פרוייקטים להגה\הפרוייקט הטוב\APIProj\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Documents\פרוייקטים להגה\הפרוייקט הטוב\APIProj\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Documents\פרוייקטים להגה\הפרוייקט הטוב\APIProj\MatchingProj\Matching\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\user\Documents\פרוייקטים להגה\הפרוייקט הטוב\APIProj\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\user\Documents\פרוייקטים להגה\הפרוייקט הטוב\APIProj\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\user\Documents\פרוייקטים להגה\הפרוייקט הטוב\APIProj\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Documents\פרוייקטים להגה\הפרוייקט הטוב\APIProj\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\user\Documents\פרוייקטים להגה\הפרוייקט הטוב\APIProj\MatchingProj\Matching\bin\Debug\net6.0\AppServices.dll
+C:\Users\user\Documents\פרוייקטים להגה\הפרוייקט הטוב\APIProj\MatchingProj\Matching\bin\Debug\net6.0\Common.dll
+C:\Users\user\Documents\פרוייקטים להגה\הפרוייקט הטוב\APIProj\MatchingProj\Matching\bin\Debug\net6.0\Repositories.dll
+C:\Users\user\Documents\פרוייקטים להגה\הפרוייקט הטוב\APIProj\MatchingProj\Matching\bin\Debug\net6.0\AppServices.pdb
+C:\Users\user\Documents\פרוייקטים להגה\הפרוייקט הטוב\APIProj\MatchingProj\Matching\bin\Debug\net6.0\Common.pdb
+C:\Users\user\Documents\פרוייקטים להגה\הפרוייקט הטוב\APIProj\MatchingProj\Matching\bin\Debug\net6.0\Repositories.pdb
+C:\Users\user\Documents\פרוייקטים להגה\הפרוייקט הטוב\APIProj\MatchingProj\Matching\obj\Debug\net6.0\Matching.csproj.AssemblyReference.cache
+C:\Users\user\Documents\פרוייקטים להגה\הפרוייקט הטוב\APIProj\MatchingProj\Matching\obj\Debug\net6.0\Matching.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\פרוייקטים להגה\הפרוייקט הטוב\APIProj\MatchingProj\Matching\obj\Debug\net6.0\Matching.AssemblyInfoInputs.cache
+C:\Users\user\Documents\פרוייקטים להגה\הפרוייקט הטוב\APIProj\MatchingProj\Matching\obj\Debug\net6.0\Matching.AssemblyInfo.cs
+C:\Users\user\Documents\פרוייקטים להגה\הפרוייקט הטוב\APIProj\MatchingProj\Matching\obj\Debug\net6.0\Matching.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\פרוייקטים להגה\הפרוייקט הטוב\APIProj\MatchingProj\Matching\obj\Debug\net6.0\Matching.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Documents\פרוייקטים להגה\הפרוייקט הטוב\APIProj\MatchingProj\Matching\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\user\Documents\פרוייקטים להגה\הפרוייקט הטוב\APIProj\MatchingProj\Matching\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\user\Documents\פרוייקטים להגה\הפרוייקט הטוב\APIProj\MatchingProj\Matching\obj\Debug\net6.0\scopedcss\bundle\Matching.styles.css
+C:\Users\user\Documents\פרוייקטים להגה\הפרוייקט הטוב\APIProj\MatchingProj\Matching\obj\Debug\net6.0\Matching.csproj.CopyComplete
+C:\Users\user\Documents\פרוייקטים להגה\הפרוייקט הטוב\APIProj\MatchingProj\Matching\obj\Debug\net6.0\Matching.dll
+C:\Users\user\Documents\פרוייקטים להגה\הפרוייקט הטוב\APIProj\MatchingProj\Matching\obj\Debug\net6.0\refint\Matching.dll
+C:\Users\user\Documents\פרוייקטים להגה\הפרוייקט הטוב\APIProj\MatchingProj\Matching\obj\Debug\net6.0\Matching.pdb
+C:\Users\user\Documents\פרוייקטים להגה\הפרוייקט הטוב\APIProj\MatchingProj\Matching\obj\Debug\net6.0\Matching.genruntimeconfig.cache
+C:\Users\user\Documents\פרוייקטים להגה\הפרוייקט הטוב\APIProj\MatchingProj\Matching\obj\Debug\net6.0\ref\Matching.dll
+C:\Users\user\Documents\פרוייקטים להגה\WebApiProj\MatchingProj\Matching\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\user\Documents\פרוייקטים להגה\WebApiProj\MatchingProj\Matching\bin\Debug\net6.0\appsettings.json
+C:\Users\user\Documents\פרוייקטים להגה\WebApiProj\MatchingProj\Matching\bin\Debug\net6.0\Matching.exe
+C:\Users\user\Documents\פרוייקטים להגה\WebApiProj\MatchingProj\Matching\bin\Debug\net6.0\Matching.deps.json
+C:\Users\user\Documents\פרוייקטים להגה\WebApiProj\MatchingProj\Matching\bin\Debug\net6.0\Matching.runtimeconfig.json
+C:\Users\user\Documents\פרוייקטים להגה\WebApiProj\MatchingProj\Matching\bin\Debug\net6.0\Matching.dll
+C:\Users\user\Documents\פרוייקטים להגה\WebApiProj\MatchingProj\Matching\bin\Debug\net6.0\Matching.pdb
+C:\Users\user\Documents\פרוייקטים להגה\WebApiProj\MatchingProj\Matching\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\user\Documents\פרוייקטים להגה\WebApiProj\MatchingProj\Matching\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\user\Documents\פרוייקטים להגה\WebApiProj\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\Documents\פרוייקטים להגה\WebApiProj\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\Documents\פרוייקטים להגה\WebApiProj\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\Documents\פרוייקטים להגה\WebApiProj\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\Documents\פרוייקטים להגה\WebApiProj\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user\Documents\פרוייקטים להגה\WebApiProj\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\user\Documents\פרוייקטים להגה\WebApiProj\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\Documents\פרוייקטים להגה\WebApiProj\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\Documents\פרוייקטים להגה\WebApiProj\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\Documents\פרוייקטים להגה\WebApiProj\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\Documents\פרוייקטים להגה\WebApiProj\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\Documents\פרוייקטים להגה\WebApiProj\MatchingProj\Matching\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Documents\פרוייקטים להגה\WebApiProj\MatchingProj\Matching\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Documents\פרוייקטים להגה\WebApiProj\MatchingProj\Matching\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\user\Documents\פרוייקטים להגה\WebApiProj\MatchingProj\Matching\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\Documents\פרוייקטים להגה\WebApiProj\MatchingProj\Matching\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\user\Documents\פרוייקטים להגה\WebApiProj\MatchingProj\Matching\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Documents\פרוייקטים להגה\WebApiProj\MatchingProj\Matching\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\user\Documents\פרוייקטים להגה\WebApiProj\MatchingProj\Matching\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\user\Documents\פרוייקטים להגה\WebApiProj\MatchingProj\Matching\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Documents\פרוייקטים להגה\WebApiProj\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Documents\פרוייקטים להגה\WebApiProj\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Documents\פרוייקטים להגה\WebApiProj\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Documents\פרוייקטים להגה\WebApiProj\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Documents\פרוייקטים להגה\WebApiProj\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Documents\פרוייקטים להגה\WebApiProj\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Documents\פרוייקטים להגה\WebApiProj\MatchingProj\Matching\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\user\Documents\פרוייקטים להגה\WebApiProj\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\user\Documents\פרוייקטים להגה\WebApiProj\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\user\Documents\פרוייקטים להגה\WebApiProj\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Documents\פרוייקטים להגה\WebApiProj\MatchingProj\Matching\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\user\Documents\פרוייקטים להגה\WebApiProj\MatchingProj\Matching\bin\Debug\net6.0\AppServices.dll
+C:\Users\user\Documents\פרוייקטים להגה\WebApiProj\MatchingProj\Matching\bin\Debug\net6.0\Common.dll
+C:\Users\user\Documents\פרוייקטים להגה\WebApiProj\MatchingProj\Matching\bin\Debug\net6.0\Repositories.dll
+C:\Users\user\Documents\פרוייקטים להגה\WebApiProj\MatchingProj\Matching\bin\Debug\net6.0\AppServices.pdb
+C:\Users\user\Documents\פרוייקטים להגה\WebApiProj\MatchingProj\Matching\bin\Debug\net6.0\Common.pdb
+C:\Users\user\Documents\פרוייקטים להגה\WebApiProj\MatchingProj\Matching\bin\Debug\net6.0\Repositories.pdb
+C:\Users\user\Documents\פרוייקטים להגה\WebApiProj\MatchingProj\Matching\obj\Debug\net6.0\Matching.csproj.AssemblyReference.cache
+C:\Users\user\Documents\פרוייקטים להגה\WebApiProj\MatchingProj\Matching\obj\Debug\net6.0\Matching.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\פרוייקטים להגה\WebApiProj\MatchingProj\Matching\obj\Debug\net6.0\Matching.AssemblyInfoInputs.cache
+C:\Users\user\Documents\פרוייקטים להגה\WebApiProj\MatchingProj\Matching\obj\Debug\net6.0\Matching.AssemblyInfo.cs
+C:\Users\user\Documents\פרוייקטים להגה\WebApiProj\MatchingProj\Matching\obj\Debug\net6.0\Matching.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\פרוייקטים להגה\WebApiProj\MatchingProj\Matching\obj\Debug\net6.0\Matching.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Documents\פרוייקטים להגה\WebApiProj\MatchingProj\Matching\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\user\Documents\פרוייקטים להגה\WebApiProj\MatchingProj\Matching\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\user\Documents\פרוייקטים להגה\WebApiProj\MatchingProj\Matching\obj\Debug\net6.0\scopedcss\bundle\Matching.styles.css
+C:\Users\user\Documents\פרוייקטים להגה\WebApiProj\MatchingProj\Matching\obj\Debug\net6.0\Matching.csproj.CopyComplete
+C:\Users\user\Documents\פרוייקטים להגה\WebApiProj\MatchingProj\Matching\obj\Debug\net6.0\Matching.dll
+C:\Users\user\Documents\פרוייקטים להגה\WebApiProj\MatchingProj\Matching\obj\Debug\net6.0\refint\Matching.dll
+C:\Users\user\Documents\פרוייקטים להגה\WebApiProj\MatchingProj\Matching\obj\Debug\net6.0\Matching.pdb
+C:\Users\user\Documents\פרוייקטים להגה\WebApiProj\MatchingProj\Matching\obj\Debug\net6.0\Matching.genruntimeconfig.cache
+C:\Users\user\Documents\פרוייקטים להגה\WebApiProj\MatchingProj\Matching\obj\Debug\net6.0\ref\Matching.dll

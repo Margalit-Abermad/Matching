@@ -1,0 +1,246 @@
+.grid-container {
+  display: grid;
+  grid-template-columns: auto;
+  /* background-color: #2196F3; */
+  /* padding: 10px; */
+}
+
+.grid-item {
+  background-color: rgba(255, 255, 255, 0.8);
+  /* border: 1px solid rgba(0, 0, 0, 0.8); */
+  max-width: 100%;
+  padding: 20px;
+  font-size: 30px;
+  text-align: center;
+  z-index: 1;
+}
+
+img {
+  width: 100%;
+  height: auto;
+  position: fixed;
+  z-index: 0;
+}
+
+#title {
+  background-color: #f1f1f1;
+  position: sticky;
+  top: 0px;
+  height: 30px;
+  max-width: 100%;
+  z-index: 6;
+}
+
+#img {
+  height: 500px;
+  background-color: transparent;
+}
+
+.details {
+  background-color: rgba(255, 255, 255, 0.7);
+  color: black;
+  width: 45%;
+  height: 450px;
+  float: right;
+  margin: 30px;
+}
+
+#allRais {
+  border: 3px red solid;
+  height: auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: left;
+}
+
+#allDonation {
+  border: 3px red solid;
+  height: auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: left;
+}
+
+
+
+#footer {
+  height: 15px;
+  text-align: right;
+  background-color: white;
+}
+
+#btnRais {
+  background-color: black;
+  color: red;
+  z-index: 2;
+  cursor: pointer;
+  font-size: 20px;
+}
+
+#btnDonation {
+  background-color: black;
+  color: red;
+  z-index: 2;
+  cursor: pointer;
+  font-size: 20px;
+}
+
+#btnCreate {
+  background-color: black;
+  color: red;
+  z-index: 2;
+  cursor: pointer;
+  font-size: 20px;
+  width: 30%;
+  padding: 10px;
+  margin: 20px;
+}
+
+#addD {
+  background-color: white;
+  border: 2px red solid;
+  z-index: 3;
+  height: auto;
+  width: 30%;
+  /* padding: 20px; */
+  /* text-align: left; */
+  display: none;
+}
+
+a {
+  text-decoration: none;
+  color: red;
+}
+
+.one-donation {
+  /* border: 2px rgb(233, 207, 207) solid; */
+  width: 25%;
+  height: 210px;
+  font-size: 20px;
+  background-color: white;
+  margin: 50px;
+}
+
+.id-p {
+  float: left;
+  margin: 0px;
+  font-size: 30px;
+  /* margin-top: 0px; */
+  /* background-color: rgb(226, 181, 181); */
+}
+
+.top-one-donation {
+  background-color: rgb(248, 224, 224);
+  width: 100%;
+  margin: 0px;
+  padding: 0px;
+}
+
+.price-h1 {
+  font-size: 40px;
+  text-align: center;
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+}
+
+.name-h3 {
+  font-size: 30px;
+  text-align: center;
+  margin-top: 0px;
+  padding-top: 0px;
+}
+
+.bottom-one-donation {
+  background-color: white;
+  width: 100%;
+  margin: 0px;
+  padding: 0px;
+}
+
+.one-rais {
+  border: 2px rgb(233, 207, 207) solid;
+  width: 45%;
+  height: 210px;
+  font-size: 30px;
+  background-color: white;
+  margin: 30px;
+}
+
+.img-coin{
+    display: flex;
+    z-index: 5;
+    width: 8%;
+    position: absolute;
+    float: left;
+}
+
+.name-rais{
+    font-size: 37px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+
+.price-rais{
+    color: red;
+    
+}
+
+.newDonation{
+  float: right;
+  text-align: left;
+  border: 2px red solid;
+  background-color: white;
+  padding: 55px;
+  margin: 20px;
+  font-size: 20px;
+  z-index: 6; 
+  display: none; 
+}
+
+input{
+  padding: 10px;
+  width: 80%;
+}
+
+#btnEnter{
+  width: 100%;
+  padding: 15px;
+  font-size: 25px;
+  cursor: pointer;
+}
+
+.img-new{
+  width: 65%;
+  /* width: 100%; */
+  height: auto;
+  position: fixed;
+  z-index: -1;
+  /* opacity: 0.8; */
+}
+
+a{
+  text-decoration: none;
+  color: black;
+}
+
+.title{
+  text-align: center;
+}
+
+#timmer{
+  text-align: center;
+  font-size: 60px;
+  margin-top: 0px;
+}
+
+#timmer-style{
+  display: inline;
+  border: 2px red solid;
+  width: 30%;
+  height: auto;
+  padding: 15px;
+  background-color: black;
+  color: red;
+  margin: 10px;
+}
+
